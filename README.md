@@ -12,7 +12,7 @@
 - [Tor](https://www.torproject.org)
 - [Firefox](https://mozilla.org)
 - [Brave](https://brave.com)
-- [Bromite](https://www.bromite.org/) / Android
+- [Bromite](https://www.bromite.org/) - Android
 
 ## E-mails:
 - [ProtonMail](https://proton.me)
