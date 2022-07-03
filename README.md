@@ -8,6 +8,12 @@
 - [YaCy](https://yacy.net/)
 - [DuckDuckGo](https://duckduckgo.com)
 
+## Browsers:
+- [Tor](https://www.torproject.org)
+- [Firefox](https://mozilla.org)
+- [Brave](https://brave.com)
+- [Bromite](https://www.bromite.org/) / Android
+
 ## E-mails:
 - [ProtonMail](https://proton.me)
 - [Mailfence](https://mailfence.com/) / Not open Source
@@ -16,6 +22,12 @@
 - [Mailbox](https://mailbox.org/en/)
 - [RiseUp](https://riseup.net)
 - [Runbox](https://runbox.com) / Not open source
+
+## Authenticators:
+- [FreeOPT](https://github.com/freeotp) 
+- [Bitwarden](https://bitwarden.com/)
+- [Authy](https://authy.com/) / Not open source
+- [AndOPT](https://github.com/andOTP/andOTP) / Android
 
 ## Calendar:
 - [Proton Calendar](https://proton.me/calendar)
