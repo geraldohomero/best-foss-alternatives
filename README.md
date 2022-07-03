@@ -16,18 +16,18 @@
 
 ## E-mails:
 - [ProtonMail](https://proton.me)
-- [Mailfence](https://mailfence.com/) / Not open Source
 - [Tutanota](https://tutanota.com)
 - [Posteo](https://posteo.de/en)
 - [Mailbox](https://mailbox.org/en/)
 - [RiseUp](https://riseup.net)
+- [Mailfence](https://mailfence.com/) / Not open Source
 - [Runbox](https://runbox.com) / Not open source
 
 ## Authenticators:
 - [FreeOPT](https://github.com/freeotp) 
 - [Bitwarden](https://bitwarden.com/)
-- [Authy](https://authy.com/) / Not open source
 - [AndOPT](https://github.com/andOTP/andOTP) / Android
+- [Authy](https://authy.com/) / Not open source
 
 ## Calendar:
 - [Proton Calendar](https://proton.me/calendar)
