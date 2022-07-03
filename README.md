@@ -26,7 +26,7 @@
 ## Authenticators:
 - [FreeOPT](https://github.com/freeotp) 
 - [Bitwarden](https://bitwarden.com/)
-- [AndOPT](https://github.com/andOTP/andOTP) / Android
+- [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) / Not open source
 
 ## Calendar:
