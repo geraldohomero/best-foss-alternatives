@@ -2,7 +2,7 @@
 
 NOS = Not Open Source
 
-## Search engines:
+## Search engines
 - [Brave](https://search.brave.com/) / beta
 - [MetaGer](https://metager.org/)
 - [Startpage](https://www.startpage.com/)
@@ -11,13 +11,13 @@ NOS = Not Open Source
 - [YaCy](https://yacy.net/)
 - [DuckDuckGo](https://duckduckgo.com)
 
-## Browsers:
+## Browsers
 - [Tor](https://www.torproject.org)
 - [Firefox](https://mozilla.org)
 - [Brave](https://brave.com)
 - [Bromite](https://www.bromite.org/) - Android
 
-## E-mails:
+## E-mails
 - [ProtonMail](https://proton.me)
 - [Tutanota](https://tutanota.com)
 - [Posteo](https://posteo.de/en)
@@ -26,25 +26,25 @@ NOS = Not Open Source
 - [Mailfence](https://mailfence.com/) / NOS
 - [Runbox](https://runbox.com) / NOS
 
-## Authenticators:
+## Authenticators
 - [FreeOPT](https://github.com/freeotp) 
 - [Bitwarden](https://bitwarden.com/) / Paid version
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) / NOS
 
-## Password Managers:
+## Password Managers
 - [Bitwarden](https://bitwarden.com/)
 - [KeepassXC](https://keepassxc.org/)
 - [Nordpass](https://nordpass.com/) / NOS
 
-## Messaging apps:
+## Messaging apps
 - [Signal](https://signal.org/)
 - [Wire](https://wire.com)
 - [Session](https://getsession.org/)
 - [Element](https://element.io/)
 - [Tox](https://tox.chat/)
 
-## VPN:
+## VPN
 - [Mullvad](https://mullvad.net)
 - [Proton VPN](https://protonvpn.com/)
 - [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/)
@@ -52,7 +52,7 @@ NOS = Not Open Source
 - [Private Internet Access](https://www.privateinternetaccess.com/)
 - [Windscribe](https://windscribe.com/)
 
-## Calendar:
+## Calendar
 - [Proton Calendar](https://proton.me/calendar)
 - [Tutanota](https://tutanota.com)
 - [Posteo](https://posteo.de/en)
@@ -63,7 +63,7 @@ NOS = Not Open Source
 - [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar)
 - [Kalendar](https://apps.kde.org/kalendar/)
 
-## To-do and notes:
+## To-do and notes
 - [Standard Notes](https://standardnotes.com/)
 - [Joplin](https://joplinapp.org/)
 - [OpenProject](https://www.openproject.org/)
@@ -73,7 +73,7 @@ NOS = Not Open Source
 - [Zettlr](https://www.zettlr.com/)
 - [Zoho Notebook](https://zoho.com/notebook) / NOS
 
-## Cloud and Sync:
+## Cloud and Sync
 - [Nextcloud](https://nextcloud.com)
 - [Owncloud](https://owncloud.com/)
 - [Filen](https://filen.io/)
@@ -82,14 +82,14 @@ NOS = Not Open Source
 - [Mega](https://mega.nz) / NOS
 - [pCloud](https://www.pcloud.com/) / NOS
 
-## Office:
+## Office
 - [LibreOffice](https://libreoffice.org)
 - [Cryptpad](https://cryptpad.fr/)
 - [Caligra](https://calligra.org/)
 - [OnlyOffice](https://onlyoffice.com)
 - [Apache OpenOffice](https://www.openoffice.org/)
 
-## Mind-mapping:
+## Mind-mapping
 - [Freeplane](https://www.freeplane.org/)
 - [FreeMind](https://sourceforge.net/projects/freemind/)
 - [diagrams](https://www.diagrams.net/)
@@ -102,15 +102,15 @@ NOS = Not Open Source
 - [JabRef](https://www.jabref.org/)
 - [Qiqqa](https://github.com/jimmejardine/qiqqa-open-source)
 
-## Maps:
+## Maps
 - [OpenStreetMap](https://www.openstreetmap.org)
 - [OsmAnd](https://osmand.net/) - iOS / Android
 
-## Readers (Feed/RSS):
+## Readers (Feed/RSS)
 - [Raven](https://ravenreader.app/)
 - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
 
-## To know more:
+## To know more
 - https://www.privacytools.io/
 - https://alternativeto.net/
 - https://restoreprivacy.com/
