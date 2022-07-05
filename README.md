@@ -1,5 +1,7 @@
 # Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)
 
+NOS = Not Open Source
+
 ## Search engines:
 - [Brave](https://search.brave.com/) / beta
 - [MetaGer](https://metager.org/)
@@ -21,19 +23,19 @@
 - [Posteo](https://posteo.de/en)
 - [Mailbox](https://mailbox.org/en/)
 - [RiseUp](https://riseup.net)
-- [Mailfence](https://mailfence.com/) / Not open source
-- [Runbox](https://runbox.com) / Not open source
+- [Mailfence](https://mailfence.com/) / NOS
+- [Runbox](https://runbox.com) / NOS
 
 ## Authenticators:
 - [FreeOPT](https://github.com/freeotp) 
 - [Bitwarden](https://bitwarden.com/) / Paid version
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
-- [Authy](https://authy.com/) / Not open source
+- [Authy](https://authy.com/) / NOS
 
 ## Password Managers:
 - [Bitwarden](https://bitwarden.com/)
 - [KeepassXC](https://keepassxc.org/)
-- [Nordpass](https://nordpass.com/) / Not open source
+- [Nordpass](https://nordpass.com/) / NOS
 
 ## Messaging apps:
 - [Signal](https://signal.org/)
@@ -69,7 +71,7 @@
 - [Simplenote](https://simplenote.com/)
 - [CherryTree](https://www.giuspen.com/cherrytree/)
 - [Zettlr](https://www.zettlr.com/)
-- [Zoho Notebook](https://zoho.com/notebook) / Not open source
+- [Zoho Notebook](https://zoho.com/notebook) / NOS
 
 ## Cloud and Sync:
 - [Nextcloud](https://nextcloud.com)
@@ -77,8 +79,8 @@
 - [Filen](https://filen.io/)
 - [Syncthing](https://syncthing.net/)
 - [Cryptomator](https://cryptomator.org/)
-- [Mega](https://mega.nz) / Not open source
-- [pCloud](https://www.pcloud.com/) / Not open source
+- [Mega](https://mega.nz) / NOS
+- [pCloud](https://www.pcloud.com/) / NOS
 
 ## Office:
 - [LibreOffice](https://libreoffice.org)
@@ -86,6 +88,19 @@
 - [Caligra](https://calligra.org/)
 - [OnlyOffice](https://onlyoffice.com)
 - [Apache OpenOffice](https://www.openoffice.org/)
+
+## Mind-mapping:
+- [Freeplane](https://www.freeplane.org/)
+- [FreeMind](https://sourceforge.net/projects/freemind/)
+- [diagrams](https://www.diagrams.net/)
+- [vym](https://www.insilmaril.de/vym/)
+- [TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap)
+- [MindApps](https://www.mindmaps.app/) - Online
+
+## Research Managers
+- [Zotero](https://zotero.org)
+- [JabRef](https://www.jabref.org/)
+- [Qiqqa](https://github.com/jimmejardine/qiqqa-open-source)
 
 ## Maps:
 - [OpenStreetMap](https://www.openstreetmap.org)
