@@ -71,7 +71,6 @@ NOS = Not Open Source
 - [Simplenote](https://simplenote.com/)
 - [CherryTree](https://www.giuspen.com/cherrytree/)
 - [Zettlr](https://www.zettlr.com/)
-- [Zoho Notebook](https://zoho.com/notebook) / NOS
 
 ## Cloud and Sync
 - [Nextcloud](https://nextcloud.com)
