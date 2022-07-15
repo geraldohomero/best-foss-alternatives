@@ -88,6 +88,17 @@ NOS = Not Open Source
 - [OnlyOffice](https://onlyoffice.com)
 - [Apache OpenOffice](https://www.openoffice.org/)
 
+## PDF
+- [Okular](https://okular.kde.org)
+- [Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader)
+- [Evince](https://wiki.gnome.org/Apps/Evince)
+- [LibreOffice Draw](https://www.libreoffice.org/discover/draw/)
+
+## Image editors
+- [GIMP](https://www.gimp.org/)
+- [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+- [Krita](https://krita.org/)
+
 ## Mind-mapping
 - [Freeplane](https://www.freeplane.org/)
 - [FreeMind](https://sourceforge.net/projects/freemind/)
