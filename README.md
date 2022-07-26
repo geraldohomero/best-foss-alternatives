@@ -1,4 +1,4 @@
-# Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)
+# List of the Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)
 
 NOS = Not Open Source
 
@@ -81,6 +81,14 @@ NOS = Not Open Source
 - [Mega](https://mega.nz) / NOS
 - [pCloud](https://www.pcloud.com/) / NOS
 
+## Code Editors
+
+- [VSCodium](https://vscodium.com/)
+- [Atom](https://atom.io/) - Discontinued 
+- [Eclipse IDE](https://www.eclipse.org/ide/)
+- [Vim](https://www.vim.org/)
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+
 ## Office
 - [LibreOffice](https://libreoffice.org)
 - [Cryptpad](https://cryptpad.fr/)
@@ -94,11 +102,6 @@ NOS = Not Open Source
 - [Evince](https://wiki.gnome.org/Apps/Evince)
 - [LibreOffice Draw](https://www.libreoffice.org/discover/draw/)
 
-## Image editors
-- [GIMP](https://www.gimp.org/)
-- [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
-- [Krita](https://krita.org/)
-
 ## Mind-mapping
 - [Freeplane](https://www.freeplane.org/)
 - [FreeMind](https://sourceforge.net/projects/freemind/)
@@ -106,6 +109,11 @@ NOS = Not Open Source
 - [vym](https://www.insilmaril.de/vym/)
 - [TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap)
 - [MindApps](https://www.mindmaps.app/) - Online
+
+## Image editors
+- [GIMP](https://www.gimp.org/)
+- [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+- [Krita](https://krita.org/)
 
 ## Research Managers
 - [Zotero](https://zotero.org)
