@@ -20,7 +20,7 @@ NOS = Not Open Source
    * [Image editors](#Image-editors)
    * [Research Managers](#Research-Managers)
    * [Maps](#Maps)
-   * [Readers RSS(readers-rss)
+   * [Readers RSS](readers-rss)
 <!--te-->
 
 ***
