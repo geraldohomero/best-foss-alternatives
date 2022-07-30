@@ -23,6 +23,8 @@ NOS = Not Open Source
    * [Feed-RSS](#Readers-Feed/RSS)
 <!--te-->
 
+***
+
 ## Search engines
 - [Brave](https://search.brave.com/) / beta
 - [MetaGer](https://metager.org/)
