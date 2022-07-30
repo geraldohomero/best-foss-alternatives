@@ -2,6 +2,20 @@
 
 NOS = Not Open Source
 
+<!--ts-->
+   * [Search engines](#Search-engines)
+   * [Browsers](#Browsers)
+   * [Instalação](#instalacao)
+   * [Como usar](#como-usar)
+      * [Pre Requisitos](#pre-requisitos)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+   * [Tests](#testes)
+   * [Tecnologias](#tecnologias)
+<!--te-->
+
 ## Search engines
 - [Brave](https://search.brave.com/) / beta
 - [MetaGer](https://metager.org/)
