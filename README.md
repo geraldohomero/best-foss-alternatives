@@ -20,7 +20,7 @@ NOS = Not Open Source
    * [Image editors](#Image-editors)
    * [Research Managers](#Research-Managers)
    * [Maps](#Maps)
-   * [Feed-RSS](#Readers-(Feed/RSS))
+   * [Feed-RSS](#Readers-Feed/RSS)
 <!--te-->
 
 ## Search engines
@@ -145,7 +145,7 @@ NOS = Not Open Source
 - [OpenStreetMap](https://www.openstreetmap.org)
 - [OsmAnd](https://osmand.net/) - iOS / Android
 
-## Readers (Feed/RSS)
+## Readers Feed/RSS
 - [Raven](https://ravenreader.app/)
 - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
 
