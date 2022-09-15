@@ -101,7 +101,7 @@ NOS = Not Open Source
 - [Filen](https://filen.io/)
 - [Syncthing](https://syncthing.net/)
 - [Cryptomator](https://cryptomator.org/)
-- [Mega](https://mega.nz) / NOS
+- [Mega](https://mega.nz/aff=PcyK0CWBbwY) / NOS
 - [pCloud](https://www.pcloud.com/) / NOS
 
 ## Code Editors
