@@ -1,6 +1,6 @@
 # List of the Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)
 
-NOS = Not Open Source
+> NOS = Not Open Source
 
 <!--ts-->
    * [Search engines](#search-engines)
@@ -18,6 +18,8 @@ NOS = Not Open Source
    * [PDF](#pdf)
    * [Mind-mapping](#mind-mapping)
    * [Image editors](#image-editors)
+   * [Video editors](#video-editors)
+   * [Digital Audio Workstation](#digital-audio-workstation)
    * [Research Managers](#research-managers)
    * [Maps](#maps)
    * [Readers RSS](#readers-RSS)
@@ -138,6 +140,19 @@ NOS = Not Open Source
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 - [Krita](https://krita.org/)
 
+## Video editors
+- [Kdenlive](https://kdenlive.org/)
+- [OpenShot](https://www.openshot.org/)
+- [Shotcut](https://www.shotcut.org/)
+- [Olive](https://www.olivevideoeditor.org/)
+- [Avidemux](http://fixounet.free.fr/avidemux/)
+
+## Digital Audio Workstation
+- [LMMS](https://lmms.io/)
+- [Ardour](https://ardour.org/)
+- [Audacity](https://www.audacityteam.org/)
+- [Tenacity](https://tenacityaudio.org/)
+
 ## Research Managers
 - [Zotero](https://zotero.org)
 - [JabRef](https://www.jabref.org/)
@@ -150,6 +165,7 @@ NOS = Not Open Source
 ## Readers RSS
 - [Raven](https://ravenreader.app/)
 - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
+
 
 ## To know more
 - https://www.privacytools.io/
