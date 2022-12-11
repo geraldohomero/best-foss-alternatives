@@ -111,6 +111,7 @@
 - [VSCodium](https://vscodium.com/)
 - [CodeSandbox](https://codesandbox.io/)
 - [Atom](https://atom.io/) - Discontinued 
+- [Pulsar](https://pulsar-edit.dev/)
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Vim](https://www.vim.org/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
