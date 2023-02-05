@@ -13,6 +13,7 @@
    * [Calendar](#calendar)
    * [To-do and notes](#to-do-and-notes)
    * [Cloud and Sync](#cloud-and-sync)
+   * [Media Servers](#media-servers)
    * [Code Editors](#code-editors)
    * [Office](#office)
    * [PDF](#pdf)
@@ -105,6 +106,11 @@
 - [Cryptomator](https://cryptomator.org/)
 - [Mega](https://mega.nz/aff=PcyK0CWBbwY) / NOS
 - [pCloud](https://www.pcloud.com/) / NOS
+
+## Media Servers
+- [Jellyfin](https://jellyfin.org/)
+- [Kodi](https://kodi.tv/)
+- [Universal Media Server](https://www.universalmediaserver.com/)
 
 ## Code Editors
 
