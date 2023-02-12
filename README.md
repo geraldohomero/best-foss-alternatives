@@ -42,6 +42,7 @@
 - [Firefox](https://mozilla.org)
 - [Brave](https://brave.com)
 - [Bromite](https://www.bromite.org/) - Android
+- [DuckDuckGo](https://duckduckgo.com/) - iOS / Android
 
 ## E-mails
 - [ProtonMail](https://proton.me)
