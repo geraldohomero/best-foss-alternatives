@@ -18,6 +18,7 @@
    * [Office](#office)
    * [PDF](#pdf)
    * [Mind-mapping](#mind-mapping)
+   * [UML](#uml)
    * [Image editors](#image-editors)
    * [Video editors](#video-editors)
    * [Digital Audio Workstation](#digital-audio-workstation)
@@ -29,12 +30,12 @@
 ***
 ## Search engines
 - [Brave](https://search.brave.com/) / beta
+- [DuckDuckGo](https://duckduckgo.com)
 - [MetaGer](https://metager.org/)
 - [Startpage](https://www.startpage.com/)
 - [Qwant](https://www.qwant.com/)
 - [Searx](https://searx.me/)
 - [YaCy](https://yacy.net/)
-- [DuckDuckGo](https://duckduckgo.com)
 
 ## Browsers
 - [Tor](https://www.torproject.org)
@@ -49,8 +50,6 @@
 - [Posteo](https://posteo.de/en)
 - [Mailbox](https://mailbox.org/en/)
 - [RiseUp](https://riseup.net)
-- [Mailfence](https://mailfence.com/) / NOS
-- [Runbox](https://runbox.com) / NOS
 
 ## Authenticators
 - [FreeOPT](https://github.com/freeotp) 
@@ -61,7 +60,6 @@
 ## Password Managers
 - [Bitwarden](https://bitwarden.com/)
 - [KeepassXC](https://keepassxc.org/)
-- [Nordpass](https://nordpass.com/) / NOS
 
 ## Messaging apps
 - [Signal](https://signal.org/)
@@ -71,10 +69,10 @@
 - [Tox](https://tox.chat/)
 
 ## VPN
+- [RiseUp VPN](https://riseup.net/vpn)
 - [Mullvad](https://mullvad.net)
 - [Proton VPN](https://protonvpn.com/)
 - [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/)
-- [RiseUp VPN](https://riseup.net/vpn)
 - [Private Internet Access](https://www.privateinternetaccess.com/)
 - [Windscribe](https://windscribe.com/)
 
@@ -90,11 +88,11 @@
 - [Kalendar](https://apps.kde.org/kalendar/)
 
 ## To-do and notes
+- [Simplenote](https://simplenote.com/)
 - [Standard Notes](https://standardnotes.com/)
 - [Joplin](https://joplinapp.org/)
 - [OpenProject](https://www.openproject.org/)
 - [QOwnNotes](https://www.qownnotes.org/)
-- [Simplenote](https://simplenote.com/)
 - [CherryTree](https://www.giuspen.com/cherrytree/)
 - [Zettlr](https://www.zettlr.com/)
 
@@ -124,9 +122,9 @@
 
 ## Office
 - [LibreOffice](https://libreoffice.org)
+- [OnlyOffice](https://onlyoffice.com)
 - [Cryptpad](https://cryptpad.fr/)
 - [Caligra](https://calligra.org/)
-- [OnlyOffice](https://onlyoffice.com)
 - [Apache OpenOffice](https://www.openoffice.org/)
 
 ## PDF
@@ -138,10 +136,17 @@
 ## Mind-mapping
 - [Freeplane](https://www.freeplane.org/)
 - [FreeMind](https://sourceforge.net/projects/freemind/)
-- [diagrams](https://www.diagrams.net/)
+- [diagrams.net](https://www.diagrams.net/)
 - [vym](https://www.insilmaril.de/vym/)
 - [TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap)
 - [MindApps](https://www.mindmaps.app/) - Online
+
+## UML
+- [diagrams.net](https://www.diagrams.net/)
+- [Umbrello](https://apps.kde.org/umbrello/)
+- [PlantUML](https://plantuml.com/)
+- [Papyrus UML](https://www.eclipse.org/papyrus/)
+- [Modelio](https://github.com/ModelioOpenSource/Modelio)
 
 ## Image editors
 - [GIMP](https://www.gimp.org/)
