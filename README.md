@@ -14,6 +14,7 @@
    * [To-do and notes](#to-do-and-notes)
    * [Cloud and Sync](#cloud-and-sync)
    * [Media Servers](#media-servers)
+   * [Torrent Clients](#torrent-clients)
    * [Code Editors](#code-editors)
    * [Office](#office)
    * [PDF](#pdf)
@@ -111,6 +112,10 @@
 - [Jellyfin](https://jellyfin.org/)
 - [Kodi](https://kodi.tv/)
 - [Universal Media Server](https://www.universalmediaserver.com/)
+
+## Torrent Clients
+- [qBittorrent](https://www.qbittorrent.org/)
+- [Transmission](https://transmissionbt.com/)
 
 ## Code Editors
 
