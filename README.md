@@ -41,6 +41,7 @@
 - [Tor](https://www.torproject.org)
 - [Firefox](https://mozilla.org)
 - [Brave](https://brave.com)
+- [Mullvad Browser](https://mullvad.net/en/download/browser)
 - [Bromite](https://www.bromite.org/) - Android
 - [DuckDuckGo](https://duckduckgo.com/) - iOS / Android
 
