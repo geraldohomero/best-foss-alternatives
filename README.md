@@ -60,6 +60,7 @@
 
 ## Password Managers
 - [Bitwarden](https://bitwarden.com/)
+- [Proton Pass](https://proton.me/pass)
 - [KeepassXC](https://keepassxc.org/)
 
 ## Messaging apps
