@@ -56,6 +56,7 @@
 ## Authenticators
 - [FreeOPT](https://github.com/freeotp) 
 - [Bitwarden](https://bitwarden.com/) / Paid version
+- [Proton Pass](https://proton.me/pass) / Paid version
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) / NOS
 
