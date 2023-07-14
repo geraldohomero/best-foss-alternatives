@@ -40,6 +40,7 @@
 
 ## Browsers
 - [Tor](https://www.torproject.org)
+- [LibreWolf](https://librewolf.net/)
 - [Firefox](https://mozilla.org)
 - [Brave](https://brave.com)
 - [Mullvad Browser](https://mullvad.net/en/download/browser)
