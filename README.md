@@ -1,4 +1,4 @@
-# List of the Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)
+# List of the Best Free and Open Source (not all) Software Alternatives for Security and Privacy
 
 > NOS = Not Open Source
 
