@@ -188,10 +188,11 @@
 - [Raven](https://ravenreader.app/)
 - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
 
-## To know more
+***
+
+### To know more
 - https://www.privacytools.io/
 - https://alternativeto.net/
 - https://restoreprivacy.com/
 
-***
 This list is under construction!!!
