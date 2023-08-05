@@ -129,6 +129,7 @@
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Vim](https://www.vim.org/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
+- [Expo.dev](https://expo.dev)
 
 ## Office
 - [LibreOffice](https://libreoffice.org)
