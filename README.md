@@ -1,4 +1,4 @@
-# List of the Best Free and Open Source (not all) Software Alternatives (for Security and Privacy)
+# List of the Best Free and Open Source (not all) Software Alternatives for Security and Privacy
 
 > NOS = Not Open Source
 
@@ -40,6 +40,7 @@
 
 ## Browsers
 - [Tor](https://www.torproject.org)
+- [LibreWolf](https://librewolf.net/)
 - [Firefox](https://mozilla.org)
 - [Brave](https://brave.com)
 - [Mullvad Browser](https://mullvad.net/en/download/browser)
@@ -56,6 +57,7 @@
 ## Authenticators
 - [FreeOPT](https://github.com/freeotp) 
 - [Bitwarden](https://bitwarden.com/) / Paid version
+- [Proton Pass](https://proton.me/pass) / Paid version
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) / NOS
 
@@ -111,6 +113,7 @@
 ## Media Servers
 - [Jellyfin](https://jellyfin.org/)
 - [Kodi](https://kodi.tv/)
+- [Stremio](https://www.stremio.com/)
 - [Universal Media Server](https://www.universalmediaserver.com/)
 
 ## Torrent Clients
@@ -126,6 +129,7 @@
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Vim](https://www.vim.org/)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
+- [Expo.dev](https://expo.dev)
 
 ## Office
 - [LibreOffice](https://libreoffice.org)
@@ -186,11 +190,11 @@
 - [Raven](https://ravenreader.app/)
 - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
 
+***
 
-## To know more
+### To know more
 - https://www.privacytools.io/
 - https://alternativeto.net/
 - https://restoreprivacy.com/
 
-***
 This list is under construction!!!
