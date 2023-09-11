@@ -30,7 +30,7 @@
 
 ***
 ## Search engines
-- [Brave](https://search.brave.com/) / beta
+- [Brave](https://search.brave.com/)
 - [DuckDuckGo](https://duckduckgo.com)
 - [MetaGer](https://metager.org/)
 - [Startpage](https://www.startpage.com/)
