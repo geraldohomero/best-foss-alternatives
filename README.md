@@ -43,6 +43,7 @@
 - [LibreWolf](https://librewolf.net/)
 - [Firefox](https://mozilla.org)
 - [Brave](https://brave.com)
+- [Floorp](https://floorp.app/)
 - [Mullvad Browser](https://mullvad.net/en/download/browser)
 - [Bromite](https://www.bromite.org/) - Android
 - [DuckDuckGo](https://duckduckgo.com/) - iOS / Android
