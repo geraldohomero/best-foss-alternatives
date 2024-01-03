@@ -193,7 +193,6 @@
 
 ***
 
-### To know more
 - https://www.privacytools.io/
 - https://alternativeto.net/
 - https://restoreprivacy.com/
