@@ -72,8 +72,10 @@ This is a list of the best free and open source software alternatives for securi
 ## Code Editors
 - [Atom](https://atom.io/) - Discontinued 
 - [CodeSandbox](https://codesandbox.io/)
+- [Cosmic](https://github.com/pop-os/cosmic-edit) / TBA
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Expo.dev](https://expo.dev)
+- [Kate](https://kate-editor.org/)
 - [Pulsar](https://pulsar-edit.dev/) - Atom Fork
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Vim](https://www.vim.org/)
