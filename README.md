@@ -98,6 +98,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 
 ## Image editors
 - [GIMP](https://www.gimp.org/)
+- [Inkscape](https://inkscape.org/)
 - [Krita](https://krita.org/)
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 
