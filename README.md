@@ -4,6 +4,8 @@
 
 This is a list of the best free and open source software alternatives for security and privacy. The list is divided into categories and subcategories. The software is listed alphabetically within each category. The list includes software for all major operating systems (Windows, macOS, Linux, Android, iOS) and is updated regularly. Sometimes there are also Not Open Source (NOS) software, but they are indicated as such (Beeing NOS does not mean that the software is bad, but it is recommended for security and privacy reasons).
 
+Feel free to [contribute](./CONTRIBUTING.md) to the list!
+
 > NOS = Not Open Source
 
 <!--ts-->
