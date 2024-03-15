@@ -188,7 +188,10 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [Private Internet Access](https://www.privateinternetaccess.com/)
 - [Proton VPN](https://protonvpn.com/)
 - [RiseUp VPN](https://riseup.net/vpn)
+- [Surfshark](https://surfshark.com/) - [Ref](https://surfshark.club/friend/U2Z3SH5u) / NOS 
 - [Windscribe](https://windscribe.com/)
+
+> I recomend to look at the [Techlore's VPN Toolkit](https://techlore.tech/vpn/toolkit) for more information about VPNs.
 
 ## Video editors
 - [Avidemux](http://fixounet.free.fr/avidemux/)
@@ -203,8 +206,9 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 
 ***
 
-- [https://www.privacytools.io/](https://www.privacytools.io/)
-- [https://alternativeto.net/](https://alternativeto.net/)
-- [https://restoreprivacy.com/](https://restoreprivacy.com/)
+- [privacytools.io](https://www.privacytools.io/)
+- [alternativeto.net](https://alternativeto.net/)
+- [restoreprivacy.com](https://restoreprivacy.com/)
+- [techlore.tech](https://techlore.tech/)
 
 This list is under construction!
