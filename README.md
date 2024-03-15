@@ -7,6 +7,7 @@ This is a list of the best free and open source software alternatives for securi
 Feel free to [contribute](./CONTRIBUTING.md) to the list!
 
 > NOS = Not Open Source
+> 
 > Ref = Refer a friend, affiliate link
 
 <!--ts-->
