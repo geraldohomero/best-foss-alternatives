@@ -2,6 +2,8 @@
 - Fork the project
 - Add the link and the name of software you want to the list (alphabetical order)
   - Use markdown
+  - `info` = NOS, android, ios, paid, online
+  - `- [<Name>](<link>) - <info>`
 ```
 ## Browsers
 - [Brave](https://brave.com)
