@@ -60,12 +60,12 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [Nextcloud Calendar](https://nextcloud.com)
 - [Posteo](https://posteo.de/en)
 - [Proton Calendar](https://proton.me/calendar)
-- [Tutanota](https://tutanota.com)
+- [Tuta](https://tuta.com) - [Ref](https://app.tuta.com/signup?ref=M2JORzJzRGc)
 
 ## Cloud and Sync
 - [Cryptomator](https://cryptomator.org/)
 - [Filen](https://filen.io/)
-- [Mega](https://mega.nz/aff=PcyK0CWBbwY) / NOS
+- [Mega](https://mega.io) - [Ref](https://mega.io/?aff=PcyK0CWBbwY) / NOS
 - [Nextcloud](https://nextcloud.com)
 - [Owncloud](https://owncloud.com/)
 - [pCloud](https://www.pcloud.com/) / NOS
@@ -78,6 +78,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Expo.dev](https://expo.dev)
 - [Kate](https://kate-editor.org/)
+- [Neovim](https://neovim.io/)
 - [Pulsar](https://pulsar-edit.dev/) - Atom Fork
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Vim](https://www.vim.org/)
@@ -94,7 +95,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [Posteo](https://posteo.de/en)
 - [ProtonMail](https://proton.me)
 - [RiseUp](https://riseup.net)
-- [Tutanota](https://tutanota.com)
+- [Tuta](https://tutanota.com) - [Ref](https://app.tuta.com/signup?ref=M2JORzJzRGc)
 
 ## Image editors
 - [GIMP](https://www.gimp.org/)
