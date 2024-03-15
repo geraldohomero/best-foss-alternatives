@@ -39,10 +39,10 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 ***
 ## Authenticators
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
-- [Authy](https://authy.com/) / NOS
-- [Bitwarden](https://bitwarden.com/) / Paid version
+- [Authy](https://authy.com/) - NOS
+- [Bitwarden](https://bitwarden.com/) - Paid version
 - [FreeOPT](https://github.com/freeotp) 
-- [Proton Pass](https://proton.me/pass) / Paid version
+- [Proton Pass](https://proton.me/pass) - Paid version
 
 ## Browsers
 - [Brave](https://brave.com)
@@ -67,16 +67,16 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 ## Cloud and Sync
 - [Cryptomator](https://cryptomator.org/)
 - [Filen](https://filen.io/)
-- [Mega](https://mega.io) - [Ref](https://mega.io/?aff=PcyK0CWBbwY) / NOS
+- [Mega](https://mega.io) - [Ref](https://mega.io/?aff=PcyK0CWBbwY) - NOS
 - [Nextcloud](https://nextcloud.com)
 - [Owncloud](https://owncloud.com/)
-- [pCloud](https://www.pcloud.com/) / NOS
+- [pCloud](https://www.pcloud.com/) - NOS
 - [Syncthing](https://syncthing.net/)
 
 ## Code Editors
 - [Atom](https://atom.io/) - Discontinued 
 - [CodeSandbox](https://codesandbox.io/)
-- [Cosmic](https://github.com/pop-os/cosmic-edit) / TBA
+- [Cosmic](https://github.com/pop-os/cosmic-edit) - TBA
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Expo.dev](https://expo.dev)
 - [Kate](https://kate-editor.org/)
@@ -188,7 +188,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [Private Internet Access](https://www.privateinternetaccess.com/)
 - [Proton VPN](https://protonvpn.com/)
 - [RiseUp VPN](https://riseup.net/vpn)
-- [Surfshark](https://surfshark.com/) - [Ref](https://surfshark.club/friend/U2Z3SH5u) / NOS 
+- [Surfshark](https://surfshark.com/) - [Ref](https://surfshark.club/friend/U2Z3SH5u) - NOS 
 - [Windscribe](https://windscribe.com/)
 
 > 
