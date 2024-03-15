@@ -191,7 +191,8 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [Surfshark](https://surfshark.com/) - [Ref](https://surfshark.club/friend/U2Z3SH5u) / NOS 
 - [Windscribe](https://windscribe.com/)
 
-> I recomend to look at the [Techlore's VPN Toolkit](https://techlore.tech/vpn/toolkit) for more information about VPNs.
+> 
+I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/toolkit) for more details on VPNs.
 
 ## Video editors
 - [Avidemux](http://fixounet.free.fr/avidemux/)
