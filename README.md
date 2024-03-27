@@ -41,6 +41,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
 - [Bitwarden](https://bitwarden.com/) - Paid version
+- [ente](https://github.com/ente-io/ente/blob/main/auth/README.md)
 - [FreeOPT](https://github.com/freeotp) 
 - [Proton Pass](https://proton.me/pass) - Paid version
 
