@@ -164,6 +164,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [YaCy](https://yacy.net/)
 
 ## To-do and notes
+- [AppFlowy](https://www.appflowy.io/) - Notion Alternative
 - [CherryTree](https://www.giuspen.com/cherrytree/)
 - [Joplin](https://joplinapp.org/)
 - [OpenProject](https://www.openproject.org/)
