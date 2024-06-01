@@ -7,8 +7,7 @@ This is a list of the best free and open source software alternatives for securi
 Feel free to [contribute](./CONTRIBUTING.md) to the list!
 
 > NOS = Not Open Source
-> 
-> Ref = Refer a friend, affiliate link
+
 
 <!--ts-->
    * [Authenticators](#authenticators)
@@ -63,7 +62,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [Nextcloud Calendar](https://nextcloud.com)
 - [Posteo](https://posteo.de/en)
 - [Proton Calendar](https://proton.me/calendar)
-- [Tuta](https://tuta.com) - [Ref](https://app.tuta.com/signup?ref=M2JORzJzRGc)
+- [Tuta](https://tuta.com)
 
 ## Cloud and Sync
 - [Cryptomator](https://cryptomator.org/)
@@ -98,7 +97,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [Posteo](https://posteo.de/en)
 - [ProtonMail](https://proton.me)
 - [RiseUp](https://riseup.net)
-- [Tuta](https://tutanota.com) - [Ref](https://app.tuta.com/signup?ref=M2JORzJzRGc)
+- [Tuta](https://tutanota.com)
 
 ## Image editors
 - [GIMP](https://www.gimp.org/)
@@ -190,7 +189,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [Private Internet Access](https://www.privateinternetaccess.com/)
 - [Proton VPN](https://protonvpn.com/)
 - [RiseUp VPN](https://riseup.net/vpn)
-- [Surfshark](https://surfshark.com/) - [Ref](https://surfshark.club/friend/U2Z3SH5u) - NOS 
+- [Surfshark](https://surfshark.com/) - NOS 
 - [Windscribe](https://windscribe.com/)
 
 > 
