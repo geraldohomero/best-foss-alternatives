@@ -9,6 +9,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 > NOS = Not Open Source
 
 <!--ts-->
+   * [AI](#ai)
    * [Authenticators](#authenticators)
    * [Browsers](#browsers)
    * [Calendar](#calendar)
@@ -16,6 +17,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
    * [Code Editors](#code-editors)
    * [Digital Audio Workstation](#digital-audio-workstation)
    * [E-mails](#e-mails)
+   * [Gaming](#gaming)
    * [Image editors](#image-editors)
    * [Maps](#maps)
    * [Media Servers](#media-servers)
@@ -35,6 +37,12 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 <!--te-->
 
 ***
+## AI
+- [HuggingChat](https://huggingface.co/chat/)
+- [Llama AI](https://ollama.com/)
+- [Private GPT](https://github.com/zylon-ai/private-gpt)
+- [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui/)
+
 ## Authenticators
 - [2FAS Auth](https://2fas.com/) - iOS / Android 
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
@@ -98,6 +106,12 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [ProtonMail](https://proton.me)
 - [RiseUp](https://riseup.net)
 - [Tuta](https://tutanota.com)
+
+## Gaming
+- [Bottles](https://usebottles.com/)
+- [Heroic Games Launcher](https://heroicgameslauncher.com/)
+- [HydraLauncher](https://github.com/hydralauncher/hydra)
+- [Lutris](https://lutris.net/)
 
 ## Image editors
 - [GIMP](https://www.gimp.org/)
