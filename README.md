@@ -8,7 +8,6 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 
 > NOS = Not Open Source
 
-
 <!--ts-->
    * [Authenticators](#authenticators)
    * [Browsers](#browsers)
@@ -25,7 +24,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
    * [Office](#office)
    * [PDF](#pdf)
    * [Password Managers](#password-managers)
-   * [Research Managers](#research-managers)
+   * [Research Related Software](#research-related-software)
    * [Search engines](#search-engines)
    * [To-do and notes](#to-do-and-notes)
    * [Torrent Clients](#torrent-clients)
@@ -148,7 +147,8 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [KeepassXC](https://keepassxc.org/)
 - [Proton Pass](https://proton.me/pass)
 
-## Research Managers
+## Research Related Software
+- [CffInit](https://citation-file-format.github.io/cff-initializer-javascript)
 - [JabRef](https://www.jabref.org/)
 - [Qiqqa](https://github.com/jimmejardine/qiqqa-open-source)
 - [Zotero](https://zotero.org)
@@ -208,9 +208,9 @@ I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/toolki
 
 ***
 
-- [privacytools.io](https://www.privacytools.io/)
-- [alternativeto.net](https://alternativeto.net/)
-- [restoreprivacy.com](https://restoreprivacy.com/)
 - [techlore.tech](https://techlore.tech/)
+- [restoreprivacy.com](https://restoreprivacy.com/)
+- [alternativeto.net](https://alternativeto.net/)
+- [privacytools.io](https://www.privacytools.io/)
 
 This list is under construction!
