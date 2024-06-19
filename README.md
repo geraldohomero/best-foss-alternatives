@@ -36,6 +36,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 
 ***
 ## Authenticators
+- [2FAS Auth](https://2fas.com/) - iOS / Android 
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
 - [Bitwarden](https://bitwarden.com/) - Paid version
