@@ -3,7 +3,7 @@ Esta é uma lista dos melhores softwares livres e de código aberto para seguran
 
 Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss-alternatives/blob/main/CONTRIBUTING.md) para a lista!
 
-> NOS = Não de Código Aberto>
+> NOS = Não de Código Aberto
 
 ***
 ## IA
