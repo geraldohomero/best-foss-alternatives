@@ -7,6 +7,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 
 ***
 ## IA
+- [GPT4All](https://www.nomic.ai/gpt4all)
 - [HuggingChat](https://huggingface.co/chat/)
 - [Llama AI](https://ollama.com/)
 - [Private GPT](https://github.com/zylon-ai/private-gpt)
