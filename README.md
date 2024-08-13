@@ -1,6 +1,6 @@
 # List of the Best Free and Open Source (not all) Software Alternatives for Security and Privacy
 
->[pt-BR](./pt-BR.md)
+>🇧🇷[pt-BR](./pt-BR.md)
 
 ## About
 
