@@ -30,6 +30,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 - [LibreWolf](https://librewolf.net/)
 - [Mullvad Browser](https://mullvad.net/en/download/browser)
 - [Tor](https://www.torproject.org)
+- [Zen](https://zen-browser.app/)
 
 ## Calendário
 - [Etar](https://github.com/Etar-Group/Etar-Calendar)
