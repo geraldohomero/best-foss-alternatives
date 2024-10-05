@@ -63,6 +63,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [LibreWolf](https://librewolf.net/)
 - [Mullvad Browser](https://mullvad.net/en/download/browser)
 - [Tor](https://www.torproject.org)
+- [Zen](https://zen-browser.app/)
 
 ## Calendar
 - [Etar](https://github.com/Etar-Group/Etar-Calendar)
