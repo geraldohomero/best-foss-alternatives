@@ -62,6 +62,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 - [Neovim](https://neovim.io/)
 - [Pulsar](https://pulsar-edit.dev/) - Fork do Atom
 - [PyCharm](https://www.jetbrains.com/pycharm/)
+- [Spyder](https://www.spyder-ide.org/)
 - [Vim](https://www.vim.org/)
 - [VSCodium](https://vscodium.com/)
 
