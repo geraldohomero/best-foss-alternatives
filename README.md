@@ -95,6 +95,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [Neovim](https://neovim.io/)
 - [Pulsar](https://pulsar-edit.dev/) - Atom Fork
 - [PyCharm](https://www.jetbrains.com/pycharm/)
+- [Spyder](https://www.spyder-ide.org/)
 - [Vim](https://www.vim.org/)
 - [VSCodium](https://vscodium.com/)
 
