@@ -63,6 +63,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [LibreWolf](https://librewolf.net/)
 - [Mullvad Browser](https://mullvad.net/en/download/browser)
 - [Tor](https://www.torproject.org)
+- [Zen](https://zen-browser.app/)
 
 ## Calendar
 - [Etar](https://github.com/Etar-Group/Etar-Calendar)
@@ -94,6 +95,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list!
 - [Neovim](https://neovim.io/)
 - [Pulsar](https://pulsar-edit.dev/) - Atom Fork
 - [PyCharm](https://www.jetbrains.com/pycharm/)
+- [Spyder](https://www.spyder-ide.org/)
 - [Vim](https://www.vim.org/)
 - [VSCodium](https://vscodium.com/)
 
