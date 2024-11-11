@@ -48,6 +48,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 
 ## Authenticators
 - [2FAS Auth](https://2fas.com/) - iOS / Android 
+- [Aegis](https://getaegis.app/) - Android
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
 - [Bitwarden](https://bitwarden.com/) - Paid version
@@ -119,6 +120,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Lutris](https://lutris.net/)
 
 ## Image editors
+- [Darktable](https://www.darktable.org/)
 - [GIMP](https://www.gimp.org/)
 - [Inkscape](https://inkscape.org/)
 - [Krita](https://krita.org/)
@@ -211,6 +213,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [RiseUp VPN](https://riseup.net/vpn)
 - [Surfshark](https://surfshark.com/) - NOS 
 - [Windscribe](https://windscribe.com/)
+- [WireGuard](https://www.wireguard.com/)
 
 > 
 I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/toolkit) for more details on VPNs.

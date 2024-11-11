@@ -15,6 +15,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 
 ## Autenticadores
 - [2FAS Auth](https://2fas.com/) - iOS / Android 
+- [Aegis](https://getaegis.app/) - Android
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
 - [Bitwarden](https://bitwarden.com/) - Versão paga
@@ -86,6 +87,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 - [Lutris](https://lutris.net/)
 
 ## Editores de Imagem
+- [Darktable](https://www.darktable.org/)
 - [GIMP](https://www.gimp.org/)
 - [Inkscape](https://inkscape.org/)
 - [Krita](https://krita.org/)
@@ -178,6 +180,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 - [RiseUp VPN](https://riseup.net/vpn)
 - [Surfshark](https://surfshark.com/) - NOS 
 - [Windscribe](https://windscribe.com/)
+- [WireGuard](https://www.wireguard.com/)
 
 > 
 Sugiro conferir o [Techlore's VPN Toolkit](https://techlore.tech/vpn/toolkit) para mais detalhes sobre VPNs.
