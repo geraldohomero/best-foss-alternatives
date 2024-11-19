@@ -148,6 +148,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [FreeMind](https://sourceforge.net/projects/freemind/)
 - [Freeplane](https://www.freeplane.org/)
 - [MindApps](https://www.mindmaps.app/) - Online
+- [Minder](https://github.com/phase1geo/minder/)
 - [TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap)
 - [vym](https://www.insilmaril.de/vym/)
 
