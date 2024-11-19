@@ -167,6 +167,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 
 ## UML
 - [diagrams.net](https://www.diagrams.net/)
+- [Gaphor](https://gaphor.org/)
 - [Modelio](https://github.com/ModelioOpenSource/Modelio)
 - [Papyrus UML](https://www.eclipse.org/papyrus/)
 - [PlantUML](https://plantuml.com/)
