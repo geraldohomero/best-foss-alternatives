@@ -185,7 +185,7 @@ Sinta-se à vontade para [contribuir](https://github.com/geraldohomero/best-foss
 - [WireGuard](https://www.wireguard.com/)
 
 > 
-Sugiro conferir o [Techlore's VPN Toolkit](https://techlore.tech/vpn/toolkit) para mais detalhes sobre VPNs.
+Sugiro conferir o [Techlore's VPN Toolkit](https://techlore.tech/vpn) para mais detalhes sobre VPNs.
 
 ## Editores de Vídeo
 - [Avidemux](http://fixounet.free.fr/avidemux/)
