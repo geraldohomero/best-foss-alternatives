@@ -218,7 +218,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [WireGuard](https://www.wireguard.com/)
 
 > 
-I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/toolkit) for more details on VPNs.
+I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/) for more details on VPNs.
 
 ## Video editors
 - [Avidemux](http://fixounet.free.fr/avidemux/)
