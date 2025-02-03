@@ -181,7 +181,8 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [DuckDuckGo](https://duckduckgo.com) - NOS
 - [MetaGer](https://metager.org/) - Paid
 - [Qwant](https://www.qwant.com/) - NOS
-- [Searx](https://searx.me/)
+- [Searx](https://searx.github.io/searx/)
+- [SearXNG](https://docs.searxng.org/) - [Instances](https://searx.space/)
 - [Startpage](https://www.startpage.com/) - NOS
 - [YaCy](https://yacy.net/)
 
