@@ -177,12 +177,12 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Zotero](https://zotero.org)
 
 ## Search engines
-- [Brave](https://search.brave.com/)
-- [DuckDuckGo](https://duckduckgo.com)
-- [MetaGer](https://metager.org/)
-- [Qwant](https://www.qwant.com/)
+- [Brave](https://search.brave.com/) - NOS
+- [DuckDuckGo](https://duckduckgo.com) - NOS
+- [MetaGer](https://metager.org/) - Paid
+- [Qwant](https://www.qwant.com/) - NOS
 - [Searx](https://searx.me/)
-- [Startpage](https://www.startpage.com/)
+- [Startpage](https://www.startpage.com/) - NOS
 - [YaCy](https://yacy.net/)
 
 ## To-do and notes
