@@ -191,6 +191,8 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [AppFlowy](https://www.appflowy.io/) - Notion Alternative ⭐
 - [CherryTree](https://www.giuspen.com/cherrytree/)
 - [Joplin](https://joplinapp.org/) ⭐
+- [Logseq](https://logseq.com/) - Obsidian Alternative
+- [Obsidian](https://obsidian.md/) - NOS ⭐
 - [OpenProject](https://www.openproject.org/)
 - [QOwnNotes](https://www.qownnotes.org/)
 - [Simplenote](https://simplenote.com/)
