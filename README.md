@@ -9,6 +9,7 @@ This is a list of the best free and open source software alternatives for securi
 Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https://github.com/geraldohomero/best-foss-alternatives/discussions)!
 
 > NOS = Not Open Source
+> 
 > ⭐ = My favorite
 <!--ts-->
    * [AI](#ai)
