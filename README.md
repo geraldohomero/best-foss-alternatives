@@ -9,7 +9,7 @@ This is a list of the best free and open source software alternatives for securi
 Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https://github.com/geraldohomero/best-foss-alternatives/discussions)!
 
 > NOS = Not Open Source
-
+> ⭐ = My favorite
 <!--ts-->
    * [AI](#ai)
    * [Authenticators](#authenticators)
@@ -40,7 +40,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 
 ***
 ## AI
-- [GPT4All](https://www.nomic.ai/gpt4all)
+- [GPT4All](https://www.nomic.ai/gpt4all) ⭐
 - [HuggingChat](https://huggingface.co/chat/)
 - [Llama AI](https://ollama.com/)
 - [Private GPT](https://github.com/zylon-ai/private-gpt)
@@ -52,17 +52,17 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
 - [Bitwarden](https://bitwarden.com/) - Paid version
-- [Ente Auth](https://github.com/ente-io/ente/blob/main/auth/README.md)
+- [Ente Auth](https://github.com/ente-io/ente/blob/main/auth/README.md) ⭐
 - [FreeOPT](https://github.com/freeotp) 
 - [Proton Pass](https://proton.me/pass) - Paid version
 
 ## Browsers
-- [Brave](https://brave.com)
+- [Brave](https://brave.com) ⭐
 - [DuckDuckGo](https://duckduckgo.com/)
-- [Firefox](https://mozilla.org)
+- [Firefox](https://mozilla.org) ⭐
 - [Floorp](https://floorp.app/)
 - [LibreWolf](https://librewolf.net/)
-- [Mullvad Browser](https://mullvad.net/en/download/browser)
+- [Mullvad Browser](https://mullvad.net/en/download/browser) ⭐
 - [Tor](https://www.torproject.org)
 - [Zen](https://zen-browser.app/)
 
@@ -74,17 +74,17 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Mailbox](https://mailbox.org/en/)
 - [Nextcloud Calendar](https://nextcloud.com)
 - [Posteo](https://posteo.de/en)
-- [Proton Calendar](https://proton.me/calendar)
-- [Tuta](https://tuta.com)
+- [Proton Calendar](https://proton.me/calendar) ⭐
+- [Tuta](https://tuta.com) ⭐
 
 ## Cloud and Sync
 - [Cryptomator](https://cryptomator.org/)
-- [Filen](https://filen.io/)
+- [Filen](https://filen.io/) ⭐
 - [Mega](https://mega.io) - [Ref](https://mega.io/?aff=PcyK0CWBbwY) - NOS
-- [Nextcloud](https://nextcloud.com)
+- [Nextcloud](https://nextcloud.com) ⭐
 - [Owncloud](https://owncloud.com/)
 - [pCloud](https://www.pcloud.com/) - NOS
-- [Syncthing](https://syncthing.net/)
+- [Syncthing](https://syncthing.net/) ⭐
 
 ## Code Editors
 - [Atom](https://atom.io/) - Discontinued 
@@ -93,15 +93,15 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Expo.dev](https://expo.dev)
 - [Kate](https://kate-editor.org/)
-- [Neovim](https://neovim.io/)
+- [Neovim](https://neovim.io/) ⭐
 - [Pulsar](https://pulsar-edit.dev/) - Atom Fork
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Spyder](https://www.spyder-ide.org/)
 - [Vim](https://www.vim.org/)
-- [VSCodium](https://vscodium.com/)
+- [VSCodium](https://vscodium.com/) ⭐
 
 ## Digital Audio Workstation
-- [Ardour](https://ardour.org/)
+- [Ardour](https://ardour.org/) ⭐
 - [Audacity](https://www.audacityteam.org/)
 - [LMMS](https://lmms.io/)
 - [Tenacity](https://tenacityaudio.org/)
@@ -109,20 +109,20 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 ## E-mails
 - [Mailbox](https://mailbox.org/en/)
 - [Posteo](https://posteo.de/en)
-- [ProtonMail](https://proton.me)
+- [ProtonMail](https://proton.me) ⭐
 - [RiseUp](https://riseup.net)
-- [Tuta](https://tutanota.com)
+- [Tuta](https://tutanota.com) ⭐
 
 ## Gaming
 - [Bottles](https://usebottles.com/)
-- [Heroic Games Launcher](https://heroicgameslauncher.com/)
+- [Heroic Games Launcher](https://heroicgameslauncher.com/) ⭐
 - [HydraLauncher](https://github.com/hydralauncher/hydra)
 - [Lutris](https://lutris.net/)
 
 ## Image editors
 - [Darktable](https://www.darktable.org/)
-- [GIMP](https://www.gimp.org/)
-- [Inkscape](https://inkscape.org/)
+- [GIMP](https://www.gimp.org/) ⭐
+- [Inkscape](https://inkscape.org/) ⭐
 - [Krita](https://krita.org/)
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 
@@ -131,7 +131,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [OpenStreetMap](https://www.openstreetmap.org)
 
 ## Media Servers
-- [Jellyfin](https://jellyfin.org/)
+- [Jellyfin](https://jellyfin.org/) ⭐
 - [Kodi](https://kodi.tv/)
 - [Stremio](https://www.stremio.com/)
 - [Universal Media Server](https://www.universalmediaserver.com/)
@@ -139,12 +139,12 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 ## Messaging apps
 - [Element](https://element.io/)
 - [Session](https://getsession.org/)
-- [Signal](https://signal.org/)
+- [Signal](https://signal.org/) ⭐
 - [Tox](https://tox.chat/)
 - [Wire](https://wire.com)
 
 ## Mind-mapping
-- [diagrams.net](https://www.diagrams.net/)
+- [diagrams.net](https://www.diagrams.net/) ⭐
 - [FreeMind](https://sourceforge.net/projects/freemind/)
 - [Freeplane](https://www.freeplane.org/)
 - [MindApps](https://www.mindmaps.app/) - Online
@@ -156,17 +156,17 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Apache OpenOffice](https://www.openoffice.org/)
 - [Caligra](https://calligra.org/)
 - [Cryptpad](https://cryptpad.fr/)
-- [LibreOffice](https://libreoffice.org)
-- [OnlyOffice](https://onlyoffice.com/)
+- [LibreOffice](https://libreoffice.org) ⭐
+- [OnlyOffice](https://onlyoffice.com/) ⭐
 
 ## PDF
 - [Evince](https://wiki.gnome.org/Apps/Evince)
-- [LibreOffice Draw](https://www.libreoffice.org/discover/draw/)
-- [Okular](https://okular.kde.org)
+- [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) ⭐
+- [Okular](https://okular.kde.org) ⭐
 - [Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader)
 
 ## Password Managers
-- [Bitwarden](https://bitwarden.com/)
+- [Bitwarden](https://bitwarden.com/) ⭐
 - [KeepassXC](https://keepassxc.org/)
 - [Proton Pass](https://proton.me/pass)
 
@@ -174,22 +174,22 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [CffInit](https://citation-file-format.github.io/cff-initializer-javascript)
 - [JabRef](https://www.jabref.org/)
 - [Qiqqa](https://github.com/jimmejardine/qiqqa-open-source)
-- [Zotero](https://zotero.org)
+- [Zotero](https://zotero.org) ⭐
 
 ## Search engines
-- [Brave](https://search.brave.com/) - NOS
-- [DuckDuckGo](https://duckduckgo.com) - NOS
+- [Brave](https://search.brave.com/) - NOS ⭐
+- [DuckDuckGo](https://duckduckgo.com) - NOS ⭐
 - [MetaGer](https://metager.org/) - Paid
 - [Qwant](https://www.qwant.com/) - NOS
-- [Searx](https://searx.github.io/searx/)
+- [Searx](https://searx.github.io/searx/) ⭐
 - [SearXNG](https://docs.searxng.org/) - [Instances](https://searx.space/)
 - [Startpage](https://www.startpage.com/) - NOS
 - [YaCy](https://yacy.net/)
 
 ## To-do and notes
-- [AppFlowy](https://www.appflowy.io/) - Notion Alternative
+- [AppFlowy](https://www.appflowy.io/) - Notion Alternative ⭐
 - [CherryTree](https://www.giuspen.com/cherrytree/)
-- [Joplin](https://joplinapp.org/)
+- [Joplin](https://joplinapp.org/) ⭐
 - [OpenProject](https://www.openproject.org/)
 - [QOwnNotes](https://www.qownnotes.org/)
 - [Simplenote](https://simplenote.com/)
@@ -197,11 +197,11 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Zettlr](https://www.zettlr.com/)
 
 ## Torrent Clients
-- [qBittorrent](https://www.qbittorrent.org/)
+- [qBittorrent](https://www.qbittorrent.org/) ⭐
 - [Transmission](https://transmissionbt.com/)
 
 ## UML
-- [diagrams.net](https://www.diagrams.net/)
+- [diagrams.net](https://www.diagrams.net/) ⭐
 - [Gaphor](https://gaphor.org/)
 - [Modelio](https://github.com/ModelioOpenSource/Modelio)
 - [Papyrus UML](https://www.eclipse.org/papyrus/)
@@ -210,12 +210,12 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 
 ## VPN
 - [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/)
-- [Mullvad](https://mullvad.net)
+- [Mullvad](https://mullvad.net) ⭐
 - [Private Internet Access](https://www.privateinternetaccess.com/)
 - [Proton VPN](https://protonvpn.com/)
 - [RiseUp VPN](https://riseup.net/vpn)
 - [Surfshark](https://surfshark.com/) - NOS 
-- [Windscribe](https://windscribe.com/)
+- [Windscribe](https://windscribe.com/) ⭐
 - [WireGuard](https://www.wireguard.com/)
 
 > 
@@ -223,7 +223,7 @@ I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/) for 
 
 ## Video editors
 - [Avidemux](http://fixounet.free.fr/avidemux/)
-- [Kdenlive](https://kdenlive.org/)
+- [Kdenlive](https://kdenlive.org/) ⭐
 - [Olive](https://www.olivevideoeditor.org/)
 - [OpenShot](https://www.openshot.org/)
 - [Shotcut](https://www.shotcut.org/)
