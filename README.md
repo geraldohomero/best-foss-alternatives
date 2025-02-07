@@ -58,8 +58,10 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Proton Pass](https://proton.me/pass) - Paid version
 
 ## Browsers
+### Chromium Based
 - [Brave](https://brave.com) ⭐
 - [DuckDuckGo](https://duckduckgo.com/)
+### Firefox and Firefox Based
 - [Firefox](https://mozilla.org) ⭐
 - [Floorp](https://floorp.app/)
 - [LibreWolf](https://librewolf.net/)
