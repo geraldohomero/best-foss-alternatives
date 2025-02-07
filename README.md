@@ -18,6 +18,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
    * [Calendar](#calendar)
    * [Cloud and Sync](#cloud-and-sync)
    * [Code Editors](#code-editors)
+   * [Data](#data)
    * [Digital Audio Workstation](#digital-audio-workstation)
    * [E-mails](#e-mails)
    * [Gaming](#gaming)
@@ -102,6 +103,14 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Spyder](https://www.spyder-ide.org/)
 - [Vim](https://www.vim.org/)
 - [VSCodium](https://vscodium.com/) ⭐
+
+## Data 
+- [GNU PSPP](http://www.gnu.org/software/pspp/)
+- [jamovi](https://jamovi.org/)
+- [JASP](https://jasp-stats.org/)
+- [LabPlot](https://labplot.kde.org/)
+- [RStudio](https://posit.co/products/open-source/rstudio/) ⭐
+- [Spyder](https://www.spyder-ide.org/) ⭐
 
 ## Digital Audio Workstation
 - [Ardour](https://ardour.org/) ⭐
