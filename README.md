@@ -49,7 +49,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui/)
 
 ## Authenticators
-- [2FAS Auth](https://2fas.com/) - iOS / Android 
+- [2FAS Auth](https://2fas.com/) - iOS / Android ⭐
 - [Aegis](https://getaegis.app/) - Android
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
@@ -225,10 +225,8 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 ## VPN
 - [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/)
 - [Mullvad](https://mullvad.net) ⭐
-- [Private Internet Access](https://www.privateinternetaccess.com/)
 - [Proton VPN](https://protonvpn.com/)
 - [RiseUp VPN](https://riseup.net/vpn)
-- [Surfshark](https://surfshark.com/) - NOS 
 - [Windscribe](https://windscribe.com/) ⭐
 - [WireGuard](https://www.wireguard.com/)
 
