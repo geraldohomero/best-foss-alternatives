@@ -1,16 +1,17 @@
 # List of the Best Free and Open Source (not all) Software Alternatives for Security and Privacy
 
->🇧🇷[pt-BR](./pt-BR.md)
-
 ## About
 
-This is a list of the best free and open source software alternatives for security and privacy. The list is divided into categories and subcategories. The software is listed alphabetically within each category. The list includes software for all major operating systems (Windows, macOS, Linux, Android, iOS) and is updated regularly. Sometimes there are also Not Open Source (NOS) software, but they are indicated as such (Beeing NOS does not mean that the software is bad, but it is recommended for security and/or privacy reasons).
+This is a list of the best free and open source software alternatives for security and privacy. The list is divided into categories and subcategories. The software is listed alphabetically within each category. The list includes software for all major operating systems (Windows, macOS, Linux, Android, iOS) and is updated regularly. 
+
+*Sometimes there are also Not Open Source (NOS) software, but they are indicated as such. Beeing NOS does not mean that the software is bad, but it is recommended for security and/or privacy reasons.*
 
 Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https://github.com/geraldohomero/best-foss-alternatives/discussions)!
 
 > NOS = Not Open Source
 > 
-> ⭐ = My favorite
+> ⭐ = Personal recommendation or favorite
+
 <!--ts-->
    * [AI](#ai)
    * [Authenticators](#authenticators)
@@ -28,11 +29,12 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
    * [Messaging apps](#messaging-apps)
    * [Mind-mapping](#mind-mapping)
    * [Office](#office)
+   * [Operating Systems](#operating-systems)
    * [PDF](#pdf)
    * [Password Managers](#password-managers)
    * [Research Related Software](#research-related-software)
    * [Search engines](#search-engines)
-   * [To-do and notes](#to-do-and-notes)
+   * [To-do and notes](#to-do-and-note-taking)
    * [Torrent Clients](#torrent-clients)
    * [UML](#uml)
    * [VPN](#vpn)
@@ -145,6 +147,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 ## Media Servers
 - [Jellyfin](https://jellyfin.org/) ⭐
 - [Kodi](https://kodi.tv/)
+- [Plex](https://www.plex.tv/) - NOS ⭐
 - [Stremio](https://www.stremio.com/)
 - [Universal Media Server](https://www.universalmediaserver.com/)
 
@@ -170,6 +173,23 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Cryptpad](https://cryptpad.fr/)
 - [LibreOffice](https://libreoffice.org) ⭐
 - [OnlyOffice](https://onlyoffice.com/) ⭐
+
+## Operating Systems
+
+### User-friendly Linux distributions
+- [Fedora](https://getfedora.org/)
+- [Linux Mint](https://linuxmint.com/)
+- [Pop!_OS](https://pop.system76.com/)
+- [Zorin OS](https://zorinos.com/)
+
+### Securety and Privacy focused Linux distributions
+- [Qubes OS](https://www.qubes-os.org/)
+- [Tails](https://tails.boum.org/)
+- [Whonix](https://www.whonix.org/)
+
+### Windows Tweaks
+- [WinUtil](https://github.com/ChrisTitusTech/winutil) - Windows 10 and 11 Debloat
+
 
 ## PDF
 - [Evince](https://wiki.gnome.org/Apps/Evince)
@@ -198,7 +218,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Startpage](https://www.startpage.com/) - NOS
 - [YaCy](https://yacy.net/)
 
-## To-do and notes
+## To-do and note-taking
 - [AppFlowy](https://www.appflowy.io/) - Notion Alternative ⭐
 - [CherryTree](https://www.giuspen.com/cherrytree/)
 - [Joplin](https://joplinapp.org/) ⭐
@@ -226,7 +246,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/)
 - [Mullvad](https://mullvad.net) ⭐
 - [Proton VPN](https://protonvpn.com/)
-- [RiseUp VPN](https://riseup.net/vpn)
+- [RiseUp VPN](https://riseup.net/vpn) ⭐
 - [Windscribe](https://windscribe.com/) ⭐
 - [WireGuard](https://www.wireguard.com/)
 
