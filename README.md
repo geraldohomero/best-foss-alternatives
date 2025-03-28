@@ -182,7 +182,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Pop!_OS](https://pop.system76.com/)
 - [Zorin OS](https://zorinos.com/)
 
-### Securety and Privacy focused Linux distributions
+### Security and Privacy focused Linux distributions
 - [Qubes OS](https://www.qubes-os.org/)
 - [Tails](https://tails.boum.org/)
 - [Whonix](https://www.whonix.org/)
