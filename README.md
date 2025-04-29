@@ -44,6 +44,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 
 ***
 ## AI
+- [Agentset](https://agentset.ai) 
 - [GPT4All](https://www.nomic.ai/gpt4all) ⭐
 - [HuggingChat](https://huggingface.co/chat/)
 - [Llama AI](https://ollama.com/)
