@@ -16,4 +16,4 @@
 ```
 - Make a pull request
 
-> The app need to be well-established 
+> The app needs to be well-established 
