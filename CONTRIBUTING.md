@@ -15,3 +15,5 @@
 - [Tor](https://www.torproject.org)
 ```
 - Make a pull request
+
+> The app need to be well-established 
