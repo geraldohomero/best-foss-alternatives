@@ -90,19 +90,19 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Nextcloud](https://nextcloud.com) ⭐
 - [Owncloud](https://owncloud.com/)
 - [pCloud](https://www.pcloud.com/) - NOS
+- [Rsync](https://rsync.samba.org/)
 - [Syncthing](https://syncthing.net/) ⭐
 
 ## Code Editors
-- [Atom](https://atom.io/) - Discontinued 
+- [Atom](https://atom.io/) - Discontinued (RIP)
 - [CodeSandbox](https://codesandbox.io/)
-- [Cosmic](https://github.com/pop-os/cosmic-edit) - TBA
+- [Cosmic](https://github.com/pop-os/cosmic-edit)
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Expo.dev](https://expo.dev)
 - [Kate](https://kate-editor.org/)
 - [Neovim](https://neovim.io/) ⭐
 - [Pulsar](https://pulsar-edit.dev/) - Atom Fork
 - [PyCharm](https://www.jetbrains.com/pycharm/)
-- [Spyder](https://www.spyder-ide.org/)
 - [Vim](https://www.vim.org/)
 - [VSCodium](https://vscodium.com/) ⭐
 
@@ -178,13 +178,14 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 
 ### User-friendly Linux distributions
 - [Fedora](https://getfedora.org/)
-- [Linux Mint](https://linuxmint.com/)
-- [Pop!_OS](https://pop.system76.com/)
-- [Zorin OS](https://zorinos.com/)
+- [Linux Mint](https://linuxmint.com/) ⭐
+- [Pop!_OS](https://pop.system76.com/) ⭐
+- [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) is NOS
+- [Zorin OS](https://zorinos.com/) ⭐
 
 ### Security and Privacy focused Linux distributions
 - [Qubes OS](https://www.qubes-os.org/)
-- [Tails](https://tails.boum.org/)
+- [Tails](https://tails.boum.org/) ⭐
 - [Whonix](https://www.whonix.org/)
 
 ### Windows Tweaks
