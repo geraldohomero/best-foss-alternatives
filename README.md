@@ -248,7 +248,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Mullvad](https://mullvad.net) ⭐
 - [Proton VPN](https://protonvpn.com/)
 - [RiseUp VPN](https://riseup.net/vpn) ⭐
-- [Windscribe](https://windscribe.com/) ⭐
+- [Windscribe](https://windscribe.com/) - [Ref](https://windscribe.com/yo/49anowy7) ⭐
 - [WireGuard](https://www.wireguard.com/)
 
 > 
