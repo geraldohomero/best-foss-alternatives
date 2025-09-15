@@ -24,6 +24,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
    * [E-mails](#e-mails)
    * [Gaming](#gaming)
    * [Image editors](#image-editors)
+   * [Learning Tools](#learning-tools)
    * [Maps](#maps)
    * [Media Servers](#media-servers)
    * [Messaging apps](#messaging-apps)
@@ -139,6 +140,11 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Inkscape](https://inkscape.org/) ⭐
 - [Krita](https://krita.org/)
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
+
+## Learning Tools
+### Flash Cards & Language Learning
+- [Anki](https://apps.ankiweb.net/) ⭐
+- [AnkiDroid](https://github.com/ankidroid/Anki-Android/) ⭐
 
 ## Maps
 - [OsmAnd](https://osmand.net/) - iOS / Android
