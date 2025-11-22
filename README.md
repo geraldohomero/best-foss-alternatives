@@ -188,6 +188,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Pop!_OS](https://pop.system76.com/) ⭐
 - [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) is NOS
 - [Zorin OS](https://zorinos.com/) ⭐
+- [BIG Linux](https://www.biglinux.com.br/) - [BIG Communiyt](https://communitybig.org/)
 
 ### Security and Privacy focused Linux distributions
 - [Qubes OS](https://www.qubes-os.org/)
