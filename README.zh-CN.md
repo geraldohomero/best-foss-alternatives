@@ -1,73 +1,71 @@
-# List of the Best Free and Open Source (not all) Software Alternatives for Security and Privacy
+# 最佳免费和开源（非全部）安全和隐私软件替代品列表
 
-> [pt-BR](https://github.com/geraldohomero/best-foss-alternatives/blob/main/README.pt-BR.md) | [简体中文](https://github.com/geraldohomero/best-foss-alternatives/blob/main/README.zh-CN.md)
+## 关于
 
-## About
+这是一个为安全和隐私目的的最佳免费和开源软件替代品列表。该列表按类别和子类别划分。在每个类别中，软件按字母顺序列出。该列表包括适用于所有主要操作系统（Windows、macOS、Linux、Android、iOS）的软件，并定期更新。
 
-This is a list of the best free and open source software alternatives for security and privacy. The list is divided into categories and subcategories. The software is listed alphabetically within each category. The list includes software for all major operating systems (Windows, macOS, Linux, Android, iOS) and is updated regularly. 
+*有时也会有非开源（NOS）的软件，但会如此标明。非开源并不意味着软件不好，但出于安全和/或隐私原因，建议使用开源软件。*
 
-*Sometimes there are also Not Open Source (NOS) software, but they are indicated as such. Beeing NOS does not mean that the software is bad, but it is recommended for security and/or privacy reasons.*
+欢迎随时为此列表[做出贡献](./CONTRIBUTING.md)并[进行讨论](https://github.com/geraldohomero/best-foss-alternatives/discussions)！
 
-Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https://github.com/geraldohomero/best-foss-alternatives/discussions)!
-
-> NOS = Not Open Source
+> NOS = 非开源
 > 
-> ⭐ = Personal recommendation or favorite
+> ⭐ = 个人推荐或最爱
 
 <!--ts-->
-   * [AI](#ai)
-   * [Authenticators](#authenticators)
-   * [Browsers](#browsers)
-   * [Calendar](#calendar)
-   * [Cloud and Sync](#cloud-and-sync)
-   * [Code Editors](#code-editors)
-   * [Data](#data)
-   * [Digital Audio Workstation](#digital-audio-workstation)
-   * [E-mails](#e-mails)
-   * [Gaming](#gaming)
-   * [Image editors](#image-editors)
-   * [Learning Tools](#learning-tools)
-   * [Maps](#maps)
-   * [Media Servers](#media-servers)
-   * [Messaging apps](#messaging-apps)
-   * [Mind-mapping](#mind-mapping)
-   * [Office](#office)
-   * [Operating Systems](#operating-systems)
+   * [人工智能](#人工智能)
+   * [身份验证器](#身份验证器)
+   * [浏览器](#浏览器)
+   * [日历](#日历)
+   * [云和同步](#云和同步)
+   * [代码编辑器](#代码编辑器)
+   * [数据](#数据)
+   * [数字音频工作站](#数字音频工作站)
+   * [电子邮件](#电子邮件)
+   * [游戏](#游戏)
+   * [图像编辑器](#图像编辑器)
+   * [学习工具](#学习工具)
+   * [地图](#地图)
+   * [媒体服务器](#媒体服务器)
+   * [即时通讯应用](#即时通讯应用)
+   * [思维导图](#思维导图)
+   * [办公套件](#办公套件)
+   * [操作系统](#操作系统)
    * [PDF](#pdf)
-   * [Password Managers](#password-managers)
-   * [Research Related Software](#research-related-software)
-   * [Search engines](#search-engines)
-   * [To-do and notes](#to-do-and-note-taking)
-   * [Torrent Clients](#torrent-clients)
+   * [密码管理器](#密码管理器)
+   * [研究相关软件](#研究相关软件)
+   * [搜索引擎](#搜索引擎)
+   * [待办事项和笔记](#待办事项和笔记)
+   * [Torrent 客户端](#torrent-客户端)
    * [UML](#uml)
    * [VPN](#vpn)
-   * [Video editors](#video-editors)
-   * [Readers RSS](#readers-RSS)
+   * [视频编辑器](#视频编辑器)
+   * [RSS 阅读器](#rss-阅读器)
 <!--te-->
 
 ***
-## AI
+## 人工智能
 - [GPT4All](https://www.nomic.ai/gpt4all) ⭐
 - [HuggingChat](https://huggingface.co/chat/)
 - [Llama AI](https://ollama.com/)
 - [Private GPT](https://github.com/zylon-ai/private-gpt)
 - [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui/)
 
-## Authenticators
+## 身份验证器
 - [2FAS Auth](https://2fas.com/) - iOS / Android ⭐
 - [Aegis](https://getaegis.app/) - Android
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
-- [Bitwarden](https://bitwarden.com/) - Paid version
+- [Bitwarden](https://bitwarden.com/) - 付费版
 - [Ente Auth](https://github.com/ente-io/ente/blob/main/auth/README.md) ⭐
 - [FreeOPT](https://github.com/freeotp) 
-- [Proton Pass](https://proton.me/pass) - Paid version
+- [Proton Pass](https://proton.me/pass) - 付费版
 
-## Browsers
-### Chromium Based
+## 浏览器
+### 基于 Chromium
 - [Brave](https://brave.com) ⭐
 - [DuckDuckGo](https://duckduckgo.com/)
-### Firefox and Firefox Based
+### Firefox 及基于 Firefox
 - [Firefox](https://mozilla.org) ⭐
 - [Floorp](https://floorp.app/)
 - [LibreWolf](https://librewolf.net/)
@@ -75,7 +73,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Tor](https://www.torproject.org)
 - [Zen](https://zen-browser.app/)
 
-## Calendar
+## 日历
 - [Etar](https://github.com/Etar-Group/Etar-Calendar)
 - [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar)
 - [Kalendar](https://apps.kde.org/kalendar/)
@@ -86,7 +84,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Proton Calendar](https://proton.me/calendar) ⭐
 - [Tuta](https://tuta.com) ⭐
 
-## Cloud and Sync
+## 云和同步
 - [Cryptomator](https://cryptomator.org/)
 - [Filen](https://filen.io/) ⭐
 - [Mega](https://mega.io) - [Ref](https://mega.io/?aff=PcyK0CWBbwY) - NOS
@@ -96,20 +94,20 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Rsync](https://rsync.samba.org/)
 - [Syncthing](https://syncthing.net/) ⭐
 
-## Code Editors
-- [Atom](https://atom.io/) - Discontinued (RIP)
+## 代码编辑器
+- [Atom](https://atom.io/) - 已停产 (RIP)
 - [CodeSandbox](https://codesandbox.io/)
 - [Cosmic](https://github.com/pop-os/cosmic-edit)
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Expo.dev](https://expo.dev)
 - [Kate](https://kate-editor.org/)
 - [Neovim](https://neovim.io/) ⭐
-- [Pulsar](https://pulsar-edit.dev/) - Atom Fork
+- [Pulsar](https://pulsar-edit.dev/) - Atom 分支
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Vim](https://www.vim.org/)
 - [VSCodium](https://vscodium.com/) ⭐
 
-## Data 
+## 数据 
 - [GNU PSPP](http://www.gnu.org/software/pspp/)
 - [jamovi](https://jamovi.org/)
 - [JASP](https://jasp-stats.org/)
@@ -117,93 +115,93 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [RStudio](https://posit.co/products/open-source/rstudio/) ⭐
 - [Spyder](https://www.spyder-ide.org/) ⭐
 
-## Digital Audio Workstation
+## 数字音频工作站
 - [Ardour](https://ardour.org/) ⭐
 - [Audacity](https://www.audacityteam.org/)
 - [LMMS](https://lmms.io/)
 - [Tenacity](https://tenacityaudio.org/)
 
-## E-mails
+## 电子邮件
 - [Mailbox](https://mailbox.org/en/)
 - [Posteo](https://posteo.de/en)
 - [ProtonMail](https://proton.me) ⭐
 - [RiseUp](https://riseup.net)
 - [Tuta](https://tutanota.com) ⭐
 
-## Gaming
+## 游戏
 - [Bottles](https://usebottles.com/)
 - [Heroic Games Launcher](https://heroicgameslauncher.com/) ⭐
 - [HydraLauncher](https://github.com/hydralauncher/hydra)
 - [Lutris](https://lutris.net/)
 
-## Image editors
+## 图像编辑器
 - [Darktable](https://www.darktable.org/)
 - [GIMP](https://www.gimp.org/) ⭐
 - [Inkscape](https://inkscape.org/) ⭐
 - [Krita](https://krita.org/)
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 
-## Learning Tools
-### Flash Cards & Language Learning
+## 学习工具
+### 闪卡和语言学习
 - [Anki](https://apps.ankiweb.net/) ⭐
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android/) ⭐
 
-## Maps
+## 地图
 - [OsmAnd](https://osmand.net/) - iOS / Android
 - [OpenStreetMap](https://www.openstreetmap.org)
 
-## Media Servers
+## 媒体服务器
 - [Jellyfin](https://jellyfin.org/) ⭐
 - [Kodi](https://kodi.tv/)
 - [Plex](https://www.plex.tv/) - NOS ⭐
 - [Stremio](https://www.stremio.com/)
 - [Universal Media Server](https://www.universalmediaserver.com/)
 
-## Messaging apps
+## 即时通讯应用
 - [Element](https://element.io/)
 - [Session](https://getsession.org/)
 - [Signal](https://signal.org/) ⭐
 - [Tox](https://tox.chat/)
 - [Wire](https://wire.com)
 
-## Mind-mapping
+## 思维导图
 - [diagrams.net](https://www.diagrams.net/) ⭐
 - [FreeMind](https://sourceforge.net/projects/freemind/)
 - [Freeplane](https://www.freeplane.org/)
-- [MindApps](https://www.mindmaps.app/) - Online
+- [MindApps](https://www.mindmaps.app/) - 在线
 - [Minder](https://github.com/phase1geo/minder/)
 - [TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap)
 - [vym](https://www.insilmaril.de/vym/)
 
-## Office
+## 办公套件
 - [Apache OpenOffice](https://www.openoffice.org/)
 - [Caligra](https://calligra.org/)
 - [Cryptpad](https://cryptpad.fr/)
 - [LibreOffice](https://libreoffice.org) ⭐
 - [OnlyOffice](https://onlyoffice.com/) ⭐
 
-## Operating Systems
+## 操作系统
 
-### User-friendly Linux distributions
-- [BIG Linux](https://www.biglinux.com.br/) - [BIG Community](https://communitybig.org/)
+### 用户友好的 Linux 发行版
+- [BIG Linux](https://www.biglinux.com.br/) - [BIG 社区](https://communitybig.org/)
 - [Fedora](https://getfedora.org/)
 - [Linux Mint](https://linuxmint.com/) ⭐
 - [Pop!_OS](https://pop.system76.com/) ⭐
-- [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) is NOS
+- [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) 是 NOS
 - [Zorin OS](https://zorinos.com/) ⭐
 
-### Game-centric Linux distributions
-- [Batocera](https://batocera.org/) - Retro-gaming
-- [Bazzite](https://bazzite.gg/) ⭐ - SteamOS like
+### 面向游戏的 Linux 发行版
+- [Batocera](https://batocera.org/) - 复古游戏
+- [Bazzite](https://bazzite.gg/) ⭐ - 类似 SteamOS
 - [Nobara](https://nobaraproject.org/)
 
-### Security and Privacy focused Linux distributions
+### 注重安全和隐私的 Linux 发行版
 - [Qubes OS](https://www.qubes-os.org/)
 - [Tails](https://tails.boum.org/) ⭐
 - [Whonix](https://www.whonix.org/)
 
-### Windows Tweaks
-- [WinUtil](https://github.com/ChrisTitusTech/winutil) - Windows 10 and 11 Debloat
+### Windows 调整
+- [WinUtil](https://github.com/ChrisTitusTech/winutil) - Windows 10 和 11 精简工具
 
 
 ## PDF
@@ -212,32 +210,32 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Okular](https://okular.kde.org) ⭐
 - [Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader)
 
-## Password Managers
+## 密码管理器
 - [Bitwarden](https://bitwarden.com/) ⭐
 - [KeepassXC](https://keepassxc.org/)
 - [Proton Pass](https://proton.me/pass)
 
-## Research Related Software
+## 研究相关软件
 - [CffInit](https://citation-file-format.github.io/cff-initializer-javascript)
 - [JabRef](https://www.jabref.org/)
 - [Qiqqa](https://github.com/jimmejardine/qiqqa-open-source)
 - [Zotero](https://zotero.org) ⭐
 
-## Search engines
+## 搜索引擎
 - [Brave](https://search.brave.com/) - NOS ⭐
 - [DuckDuckGo](https://duckduckgo.com) - NOS ⭐
-- [MetaGer](https://metager.org/) - Paid
+- [MetaGer](https://metager.org/) - 付费
 - [Qwant](https://www.qwant.com/) - NOS
 - [Searx](https://searx.github.io/searx/) ⭐
-- [SearXNG](https://docs.searxng.org/) - [Instances](https://searx.space/)
+- [SearXNG](https://docs.searxng.org/) - [实例](https://searx.space/)
 - [Startpage](https://www.startpage.com/) - NOS
 - [YaCy](https://yacy.net/)
 
-## To-do and note-taking
-- [AppFlowy](https://www.appflowy.io/) - Notion Alternative ⭐
+## 待办事项和笔记
+- [AppFlowy](https://www.appflowy.io/) - Notion 替代品 ⭐
 - [CherryTree](https://www.giuspen.com/cherrytree/)
 - [Joplin](https://joplinapp.org/) ⭐
-- [Logseq](https://logseq.com/) - Obsidian Alternative
+- [Logseq](https://logseq.com/) - Obsidian 替代品
 - [Obsidian](https://obsidian.md/) - NOS ⭐
 - [OpenProject](https://www.openproject.org/)
 - [QOwnNotes](https://www.qownnotes.org/)
@@ -245,7 +243,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Standard Notes](https://standardnotes.com/)
 - [Zettlr](https://www.zettlr.com/)
 
-## Torrent Clients
+## Torrent 客户端
 - [qBittorrent](https://www.qbittorrent.org/) ⭐
 - [Transmission](https://transmissionbt.com/)
 
@@ -266,16 +264,16 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [WireGuard](https://www.wireguard.com/)
 
 > 
-I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/) for more details on VPNs.
+我建议查看 [Techlore 的 VPN 工具包](https://techlore.tech/vpn/)以获取有关 VPN 的更多详细信息。
 
-## Video editors
+## 视频编辑器
 - [Avidemux](http://fixounet.free.fr/avidemux/)
 - [Kdenlive](https://kdenlive.org/) ⭐
 - [Olive](https://www.olivevideoeditor.org/)
 - [OpenShot](https://www.openshot.org/)
 - [Shotcut](https://www.shotcut.org/)
 
-## Readers RSS
+## RSS 阅读器
 - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
 - [Raven](https://ravenreader.app/)
 
@@ -286,4 +284,4 @@ I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/) for 
 - [alternativeto.net](https://alternativeto.net/)
 - [privacytools.io](https://www.privacytools.io/)
 
-This list is under construction!
+此列表正在建设中！

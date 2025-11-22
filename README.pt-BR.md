@@ -1,73 +1,71 @@
-# List of the Best Free and Open Source (not all) Software Alternatives for Security and Privacy
+# Lista das Melhores Alternativas de Software (nem todos) Livres e de Código Aberto para Segurança e Privacidade
 
-> [pt-BR](https://github.com/geraldohomero/best-foss-alternatives/blob/main/README.pt-BR.md) | [简体中文](https://github.com/geraldohomero/best-foss-alternatives/blob/main/README.zh-CN.md)
+## Sobre
 
-## About
+Esta é uma lista das melhores alternativas de software livre e de código aberto para segurança e privacidade. A lista está dividida em categorias e subcategorias. O software está listado em ordem alfabética dentro de cada categoria. A lista inclui software para todos os principais sistemas operacionais (Windows, macOS, Linux, Android, iOS) e é atualizada regularmente.
 
-This is a list of the best free and open source software alternatives for security and privacy. The list is divided into categories and subcategories. The software is listed alphabetically within each category. The list includes software for all major operating systems (Windows, macOS, Linux, Android, iOS) and is updated regularly. 
+*Às vezes, também há softwares que não são de código aberto (NOS), mas eles são indicados como tal. Ser NOS não significa que o software seja ruim, mas é recomendado por razões de segurança e/ou privacidade.*
 
-*Sometimes there are also Not Open Source (NOS) software, but they are indicated as such. Beeing NOS does not mean that the software is bad, but it is recommended for security and/or privacy reasons.*
+Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti-la](https://github.com/geraldohomero/best-foss-alternatives/discussions)!
 
-Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https://github.com/geraldohomero/best-foss-alternatives/discussions)!
-
-> NOS = Not Open Source
+> NOS = Não é de Código Aberto
 > 
-> ⭐ = Personal recommendation or favorite
+> ⭐ = Recomendação pessoal ou favorito
 
 <!--ts-->
-   * [AI](#ai)
-   * [Authenticators](#authenticators)
-   * [Browsers](#browsers)
-   * [Calendar](#calendar)
-   * [Cloud and Sync](#cloud-and-sync)
-   * [Code Editors](#code-editors)
-   * [Data](#data)
-   * [Digital Audio Workstation](#digital-audio-workstation)
+   * [IA](#ia)
+   * [Autenticadores](#autenticadores)
+   * [Navegadores](#navegadores)
+   * [Calendário](#calendário)
+   * [Nuvem e Sincronização](#nuvem-e-sincronização)
+   * [Editores de Código](#editores-de-código)
+   * [Dados](#dados)
+   * [Estação de Trabalho de Áudio Digital](#estação-de-trabalho-de-áudio-digital)
    * [E-mails](#e-mails)
-   * [Gaming](#gaming)
-   * [Image editors](#image-editors)
-   * [Learning Tools](#learning-tools)
-   * [Maps](#maps)
-   * [Media Servers](#media-servers)
-   * [Messaging apps](#messaging-apps)
-   * [Mind-mapping](#mind-mapping)
-   * [Office](#office)
-   * [Operating Systems](#operating-systems)
+   * [Jogos](#jogos)
+   * [Editores de Imagem](#editores-de-imagem)
+   * [Ferramentas de Aprendizagem](#ferramentas-de-aprendizagem)
+   * [Mapas](#mapas)
+   * [Servidores de Mídia](#servidores-de-mídia)
+   * [Aplicativos de Mensagens](#aplicativos-de-mensagens)
+   * [Mapas Mentais](#mapas-mentais)
+   * [Escritório](#escritório)
+   * [Sistemas Operacionais](#sistemas-operacionais)
    * [PDF](#pdf)
-   * [Password Managers](#password-managers)
-   * [Research Related Software](#research-related-software)
-   * [Search engines](#search-engines)
-   * [To-do and notes](#to-do-and-note-taking)
-   * [Torrent Clients](#torrent-clients)
+   * [Gerenciadores de Senhas](#gerenciadores-de-senhas)
+   * [Software Relacionado à Pesquisa](#software-relacionado-à-pesquisa)
+   * [Mecanismos de Busca](#mecanismos-de-busca)
+   * [Tarefas e Anotações](#tarefas-e-anotações)
+   * [Clientes de Torrent](#clientes-de-torrent)
    * [UML](#uml)
    * [VPN](#vpn)
-   * [Video editors](#video-editors)
-   * [Readers RSS](#readers-RSS)
+   * [Editores de Vídeo](#editores-de-vídeo)
+   * [Leitores de RSS](#leitores-de-rss)
 <!--te-->
 
 ***
-## AI
+## IA
 - [GPT4All](https://www.nomic.ai/gpt4all) ⭐
 - [HuggingChat](https://huggingface.co/chat/)
 - [Llama AI](https://ollama.com/)
 - [Private GPT](https://github.com/zylon-ai/private-gpt)
 - [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui/)
 
-## Authenticators
+## Autenticadores
 - [2FAS Auth](https://2fas.com/) - iOS / Android ⭐
 - [Aegis](https://getaegis.app/) - Android
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
-- [Bitwarden](https://bitwarden.com/) - Paid version
+- [Bitwarden](https://bitwarden.com/) - Versão paga
 - [Ente Auth](https://github.com/ente-io/ente/blob/main/auth/README.md) ⭐
 - [FreeOPT](https://github.com/freeotp) 
-- [Proton Pass](https://proton.me/pass) - Paid version
+- [Proton Pass](https://proton.me/pass) - Versão paga
 
-## Browsers
-### Chromium Based
+## Navegadores
+### Baseado em Chromium
 - [Brave](https://brave.com) ⭐
 - [DuckDuckGo](https://duckduckgo.com/)
-### Firefox and Firefox Based
+### Firefox e Baseado em Firefox
 - [Firefox](https://mozilla.org) ⭐
 - [Floorp](https://floorp.app/)
 - [LibreWolf](https://librewolf.net/)
@@ -75,7 +73,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Tor](https://www.torproject.org)
 - [Zen](https://zen-browser.app/)
 
-## Calendar
+## Calendário
 - [Etar](https://github.com/Etar-Group/Etar-Calendar)
 - [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar)
 - [Kalendar](https://apps.kde.org/kalendar/)
@@ -86,7 +84,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Proton Calendar](https://proton.me/calendar) ⭐
 - [Tuta](https://tuta.com) ⭐
 
-## Cloud and Sync
+## Nuvem e Sincronização
 - [Cryptomator](https://cryptomator.org/)
 - [Filen](https://filen.io/) ⭐
 - [Mega](https://mega.io) - [Ref](https://mega.io/?aff=PcyK0CWBbwY) - NOS
@@ -96,20 +94,20 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Rsync](https://rsync.samba.org/)
 - [Syncthing](https://syncthing.net/) ⭐
 
-## Code Editors
-- [Atom](https://atom.io/) - Discontinued (RIP)
+## Editores de Código
+- [Atom](https://atom.io/) - Descontinuado (RIP)
 - [CodeSandbox](https://codesandbox.io/)
 - [Cosmic](https://github.com/pop-os/cosmic-edit)
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Expo.dev](https://expo.dev)
 - [Kate](https://kate-editor.org/)
 - [Neovim](https://neovim.io/) ⭐
-- [Pulsar](https://pulsar-edit.dev/) - Atom Fork
+- [Pulsar](https://pulsar-edit.dev/) - Fork do Atom
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Vim](https://www.vim.org/)
 - [VSCodium](https://vscodium.com/) ⭐
 
-## Data 
+## Dados 
 - [GNU PSPP](http://www.gnu.org/software/pspp/)
 - [jamovi](https://jamovi.org/)
 - [JASP](https://jasp-stats.org/)
@@ -117,7 +115,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [RStudio](https://posit.co/products/open-source/rstudio/) ⭐
 - [Spyder](https://www.spyder-ide.org/) ⭐
 
-## Digital Audio Workstation
+## Estação de Trabalho de Áudio Digital
 - [Ardour](https://ardour.org/) ⭐
 - [Audacity](https://www.audacityteam.org/)
 - [LMMS](https://lmms.io/)
@@ -130,43 +128,43 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [RiseUp](https://riseup.net)
 - [Tuta](https://tutanota.com) ⭐
 
-## Gaming
+## Jogos
 - [Bottles](https://usebottles.com/)
 - [Heroic Games Launcher](https://heroicgameslauncher.com/) ⭐
 - [HydraLauncher](https://github.com/hydralauncher/hydra)
 - [Lutris](https://lutris.net/)
 
-## Image editors
+## Editores de Imagem
 - [Darktable](https://www.darktable.org/)
 - [GIMP](https://www.gimp.org/) ⭐
 - [Inkscape](https://inkscape.org/) ⭐
 - [Krita](https://krita.org/)
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 
-## Learning Tools
-### Flash Cards & Language Learning
+## Ferramentas de Aprendizagem
+### Flash Cards e Aprendizagem de Idiomas
 - [Anki](https://apps.ankiweb.net/) ⭐
 - [AnkiDroid](https://github.com/ankidroid/Anki-Android/) ⭐
 
-## Maps
+## Mapas
 - [OsmAnd](https://osmand.net/) - iOS / Android
 - [OpenStreetMap](https://www.openstreetmap.org)
 
-## Media Servers
+## Servidores de Mídia
 - [Jellyfin](https://jellyfin.org/) ⭐
 - [Kodi](https://kodi.tv/)
 - [Plex](https://www.plex.tv/) - NOS ⭐
 - [Stremio](https://www.stremio.com/)
 - [Universal Media Server](https://www.universalmediaserver.com/)
 
-## Messaging apps
+## Aplicativos de Mensagens
 - [Element](https://element.io/)
 - [Session](https://getsession.org/)
 - [Signal](https://signal.org/) ⭐
 - [Tox](https://tox.chat/)
 - [Wire](https://wire.com)
 
-## Mind-mapping
+## Mapas Mentais
 - [diagrams.net](https://www.diagrams.net/) ⭐
 - [FreeMind](https://sourceforge.net/projects/freemind/)
 - [Freeplane](https://www.freeplane.org/)
@@ -175,35 +173,35 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap)
 - [vym](https://www.insilmaril.de/vym/)
 
-## Office
+## Escritório
 - [Apache OpenOffice](https://www.openoffice.org/)
 - [Caligra](https://calligra.org/)
 - [Cryptpad](https://cryptpad.fr/)
 - [LibreOffice](https://libreoffice.org) ⭐
 - [OnlyOffice](https://onlyoffice.com/) ⭐
 
-## Operating Systems
+## Sistemas Operacionais
 
-### User-friendly Linux distributions
-- [BIG Linux](https://www.biglinux.com.br/) - [BIG Community](https://communitybig.org/)
+### Distribuições Linux amigáveis para o usuário
+- [BIG Linux](https://www.biglinux.com.br/) - [Comunidade BIG](https://communitybig.org/)
 - [Fedora](https://getfedora.org/)
 - [Linux Mint](https://linuxmint.com/) ⭐
 - [Pop!_OS](https://pop.system76.com/) ⭐
-- [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) is NOS
+- [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) é NOS
 - [Zorin OS](https://zorinos.com/) ⭐
 
-### Game-centric Linux distributions
+### Distribuições Linux focadas em jogos
 - [Batocera](https://batocera.org/) - Retro-gaming
 - [Bazzite](https://bazzite.gg/) ⭐ - SteamOS like
 - [Nobara](https://nobaraproject.org/)
 
-### Security and Privacy focused Linux distributions
+### Distribuições Linux focadas em segurança e privacidade
 - [Qubes OS](https://www.qubes-os.org/)
 - [Tails](https://tails.boum.org/) ⭐
 - [Whonix](https://www.whonix.org/)
 
-### Windows Tweaks
-- [WinUtil](https://github.com/ChrisTitusTech/winutil) - Windows 10 and 11 Debloat
+### Ajustes do Windows
+- [WinUtil](https://github.com/ChrisTitusTech/winutil) - Debloat para Windows 10 e 11
 
 
 ## PDF
@@ -212,32 +210,32 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Okular](https://okular.kde.org) ⭐
 - [Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader)
 
-## Password Managers
+## Gerenciadores de Senhas
 - [Bitwarden](https://bitwarden.com/) ⭐
 - [KeepassXC](https://keepassxc.org/)
 - [Proton Pass](https://proton.me/pass)
 
-## Research Related Software
+## Software Relacionado à Pesquisa
 - [CffInit](https://citation-file-format.github.io/cff-initializer-javascript)
 - [JabRef](https://www.jabref.org/)
 - [Qiqqa](https://github.com/jimmejardine/qiqqa-open-source)
 - [Zotero](https://zotero.org) ⭐
 
-## Search engines
+## Mecanismos de Busca
 - [Brave](https://search.brave.com/) - NOS ⭐
 - [DuckDuckGo](https://duckduckgo.com) - NOS ⭐
-- [MetaGer](https://metager.org/) - Paid
+- [MetaGer](https://metager.org/) - Pago
 - [Qwant](https://www.qwant.com/) - NOS
 - [Searx](https://searx.github.io/searx/) ⭐
-- [SearXNG](https://docs.searxng.org/) - [Instances](https://searx.space/)
+- [SearXNG](https://docs.searxng.org/) - [Instâncias](https://searx.space/)
 - [Startpage](https://www.startpage.com/) - NOS
 - [YaCy](https://yacy.net/)
 
-## To-do and note-taking
-- [AppFlowy](https://www.appflowy.io/) - Notion Alternative ⭐
+## Tarefas e Anotações
+- [AppFlowy](https://www.appflowy.io/) - Alternativa ao Notion ⭐
 - [CherryTree](https://www.giuspen.com/cherrytree/)
 - [Joplin](https://joplinapp.org/) ⭐
-- [Logseq](https://logseq.com/) - Obsidian Alternative
+- [Logseq](https://logseq.com/) - Alternativa ao Obsidian
 - [Obsidian](https://obsidian.md/) - NOS ⭐
 - [OpenProject](https://www.openproject.org/)
 - [QOwnNotes](https://www.qownnotes.org/)
@@ -245,7 +243,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Standard Notes](https://standardnotes.com/)
 - [Zettlr](https://www.zettlr.com/)
 
-## Torrent Clients
+## Clientes de Torrent
 - [qBittorrent](https://www.qbittorrent.org/) ⭐
 - [Transmission](https://transmissionbt.com/)
 
@@ -266,16 +264,16 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [WireGuard](https://www.wireguard.com/)
 
 > 
-I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/) for more details on VPNs.
+Sugiro conferir o [Kit de Ferramentas VPN da Techlore](https://techlore.tech/vpn/) para mais detalhes sobre VPNs.
 
-## Video editors
+## Editores de Vídeo
 - [Avidemux](http://fixounet.free.fr/avidemux/)
 - [Kdenlive](https://kdenlive.org/) ⭐
 - [Olive](https://www.olivevideoeditor.org/)
 - [OpenShot](https://www.openshot.org/)
 - [Shotcut](https://www.shotcut.org/)
 
-## Readers RSS
+## Leitores de RSS
 - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
 - [Raven](https://ravenreader.app/)
 
@@ -286,4 +284,4 @@ I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/) for 
 - [alternativeto.net](https://alternativeto.net/)
 - [privacytools.io](https://www.privacytools.io/)
 
-This list is under construction!
+Esta lista está em construção!
