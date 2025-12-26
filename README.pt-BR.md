@@ -88,6 +88,7 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 - [Cryptomator](https://cryptomator.org/)
 - [Filen](https://filen.io/) ⭐
 - [Mega](https://mega.io) - [Ref](https://mega.io/?aff=PcyK0CWBbwY) - NOS
+  - [MEGASync Multi-Instance Manager](https://github.com/geraldohomero/megasync-multiple-instances) - Linux
 - [Nextcloud](https://nextcloud.com) ⭐
 - [Owncloud](https://owncloud.com/)
 - [pCloud](https://www.pcloud.com/) - NOS
