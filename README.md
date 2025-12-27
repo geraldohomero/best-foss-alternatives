@@ -237,6 +237,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 ## To-do and note-taking
 - [AppFlowy](https://www.appflowy.io/) - Notion Alternative ⭐
 - [CherryTree](https://www.giuspen.com/cherrytree/)
+- [Filen](https://filen.io/)
 - [Joplin](https://joplinapp.org/) ⭐
 - [Logseq](https://logseq.com/) - Obsidian Alternative
 - [Obsidian](https://obsidian.md/) - NOS ⭐
