@@ -188,10 +188,10 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 
 ### User-friendly Linux distributions
 - [BIG Linux](https://www.biglinux.com.br/) - [BIG Community](https://communitybig.org/)
-- [Fedora](https://getfedora.org/)
+- [Fedora](https://getfedora.org/) - [Spins](https://fedoraproject.org/spins)
 - [Linux Mint](https://linuxmint.com/) ⭐
 - [Pop!_OS](https://pop.system76.com/) ⭐
-- [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) is NOS
+- [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) is NOS - [Flavors](https://ubuntu.com/desktop/flavors)
 - [Zorin OS](https://zorinos.com/) ⭐
 
 ### Game-centric Linux distributions
