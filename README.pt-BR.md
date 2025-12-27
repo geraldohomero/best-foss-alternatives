@@ -235,6 +235,7 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 ## Tarefas e Anotações
 - [AppFlowy](https://www.appflowy.io/) - Alternativa ao Notion ⭐
 - [CherryTree](https://www.giuspen.com/cherrytree/)
+- [Filen](https://filen.io/)
 - [Joplin](https://joplinapp.org/) ⭐
 - [Logseq](https://logseq.com/) - Alternativa ao Obsidian
 - [Obsidian](https://obsidian.md/) - NOS ⭐
