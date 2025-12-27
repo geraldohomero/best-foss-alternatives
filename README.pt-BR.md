@@ -185,11 +185,11 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 ## Sistemas Operacionais
 
 ### Distribuições Linux amigáveis para o usuário
-- [BIG Linux](https://www.biglinux.com.br/) - [Comunidade BIG](https://communitybig.org/)
-- [Fedora](https://getfedora.org/)
+- [BIG Linux](https://www.biglinux.com.br/) - [BIG Community](https://communitybig.org/)
+- [Fedora](https://getfedora.org/) - [Spins](https://fedoraproject.org/spins)
 - [Linux Mint](https://linuxmint.com/) ⭐
 - [Pop!_OS](https://pop.system76.com/) ⭐
-- [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) é NOS
+- [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) is NOS - [Flavors](https://ubuntu.com/desktop/flavors)
 - [Zorin OS](https://zorinos.com/) ⭐
 
 ### Distribuições Linux focadas em jogos
