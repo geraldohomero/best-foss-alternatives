@@ -185,11 +185,11 @@
 ## 操作系统
 
 ### 用户友好的 Linux 发行版
-- [BIG Linux](https://www.biglinux.com.br/) - [BIG 社区](https://communitybig.org/)
-- [Fedora](https://getfedora.org/)
+- [BIG Linux](https://www.biglinux.com.br/) - [BIG Community](https://communitybig.org/)
+- [Fedora](https://getfedora.org/) - [Spins](https://fedoraproject.org/spins)
 - [Linux Mint](https://linuxmint.com/) ⭐
 - [Pop!_OS](https://pop.system76.com/) ⭐
-- [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) 是 NOS
+- [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) is NOS - [Flavors](https://ubuntu.com/desktop/flavors)
 - [Zorin OS](https://zorinos.com/) ⭐
 
 ### 面向游戏的 Linux 发行版
