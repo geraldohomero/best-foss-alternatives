@@ -65,6 +65,7 @@
 ### 基于 Chromium
 - [Brave](https://brave.com) ⭐
 - [DuckDuckGo](https://duckduckgo.com/)
+- [Vivaldi](https://vivaldi.com)
 ### Firefox 及基于 Firefox
 - [Firefox](https://mozilla.org) ⭐
 - [Floorp](https://floorp.app/)

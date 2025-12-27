@@ -67,6 +67,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 ### Chromium Based
 - [Brave](https://brave.com) ⭐
 - [DuckDuckGo](https://duckduckgo.com/)
+- [Vivaldi](https://vivaldi.com)
 ### Firefox and Firefox Based
 - [Firefox](https://mozilla.org) ⭐
 - [Floorp](https://floorp.app/)
