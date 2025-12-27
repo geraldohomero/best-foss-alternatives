@@ -235,6 +235,7 @@
 ## 待办事项和笔记
 - [AppFlowy](https://www.appflowy.io/) - Notion 替代品 ⭐
 - [CherryTree](https://www.giuspen.com/cherrytree/)
+- [Filen](https://filen.io/)
 - [Joplin](https://joplinapp.org/) ⭐
 - [Logseq](https://logseq.com/) - Obsidian 替代品
 - [Obsidian](https://obsidian.md/) - NOS ⭐
