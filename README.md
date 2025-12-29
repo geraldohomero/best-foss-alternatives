@@ -35,6 +35,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
    * [Operating Systems](#operating-systems)
    * [PDF](#pdf)
    * [Password Managers](#password-managers)
+   * [Readers RSS](#readers-RSS)
    * [Research Related Software](#research-related-software)
    * [Search engines](#search-engines)
    * [To-do and notes](#to-do-and-note-taking)
@@ -42,7 +43,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
    * [UML](#uml)
    * [VPN](#vpn)
    * [Video editors](#video-editors)
-   * [Readers RSS](#readers-RSS)
+
 <!--te-->
 
 ***
@@ -219,6 +220,10 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [KeepassXC](https://keepassxc.org/)
 - [Proton Pass](https://proton.me/pass)
 
+## Readers RSS
+- [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
+- [Raven](https://ravenreader.app/)
+
 ## Research Related Software
 - [CffInit](https://citation-file-format.github.io/cff-initializer-javascript)
 - [JabRef](https://www.jabref.org/)
@@ -278,9 +283,7 @@ I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/) for 
 - [OpenShot](https://www.openshot.org/)
 - [Shotcut](https://www.shotcut.org/)
 
-## Readers RSS
-- [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
-- [Raven](https://ravenreader.app/)
+
 
 ***
 
