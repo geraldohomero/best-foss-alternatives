@@ -33,6 +33,7 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
    * [Sistemas Operacionais](#sistemas-operacionais)
    * [PDF](#pdf)
    * [Gerenciadores de Senhas](#gerenciadores-de-senhas)
+   * [Leitores de RSS](#leitores-de-rss)
    * [Software Relacionado à Pesquisa](#software-relacionado-à-pesquisa)
    * [Mecanismos de Busca](#mecanismos-de-busca)
    * [Tarefas e Anotações](#tarefas-e-anotações)
@@ -40,7 +41,6 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
    * [UML](#uml)
    * [VPN](#vpn)
    * [Editores de Vídeo](#editores-de-vídeo)
-   * [Leitores de RSS](#leitores-de-rss)
 <!--te-->
 
 ***
@@ -217,6 +217,10 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 - [KeepassXC](https://keepassxc.org/)
 - [Proton Pass](https://proton.me/pass)
 
+## Leitores de RSS
+- [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
+- [Raven](https://ravenreader.app/)
+
 ## Software Relacionado à Pesquisa
 - [CffInit](https://citation-file-format.github.io/cff-initializer-javascript)
 - [JabRef](https://www.jabref.org/)
@@ -275,10 +279,6 @@ Sugiro conferir o [Kit de Ferramentas VPN da Techlore](https://techlore.tech/vpn
 - [Olive](https://www.olivevideoeditor.org/)
 - [OpenShot](https://www.openshot.org/)
 - [Shotcut](https://www.shotcut.org/)
-
-## Leitores de RSS
-- [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
-- [Raven](https://ravenreader.app/)
 
 ***
 

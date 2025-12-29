@@ -33,6 +33,7 @@
    * [操作系统](#操作系统)
    * [PDF](#pdf)
    * [密码管理器](#密码管理器)
+   * [RSS 阅读器](#rss-阅读器)
    * [研究相关软件](#研究相关软件)
    * [搜索引擎](#搜索引擎)
    * [待办事项和笔记](#待办事项和笔记)
@@ -40,7 +41,6 @@
    * [UML](#uml)
    * [VPN](#vpn)
    * [视频编辑器](#视频编辑器)
-   * [RSS 阅读器](#rss-阅读器)
 <!--te-->
 
 ***
@@ -217,6 +217,10 @@
 - [KeepassXC](https://keepassxc.org/)
 - [Proton Pass](https://proton.me/pass)
 
+## RSS 阅读器
+- [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
+- [Raven](https://ravenreader.app/)
+
 ## 研究相关软件
 - [CffInit](https://citation-file-format.github.io/cff-initializer-javascript)
 - [JabRef](https://www.jabref.org/)
@@ -275,10 +279,6 @@
 - [Olive](https://www.olivevideoeditor.org/)
 - [OpenShot](https://www.openshot.org/)
 - [Shotcut](https://www.shotcut.org/)
-
-## RSS 阅读器
-- [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
-- [Raven](https://ravenreader.app/)
 
 ***
 
