@@ -60,7 +60,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
 - [Bitwarden](https://bitwarden.com/) - Paid version
-- [Ente Auth](https://github.com/ente-io/ente/blob/main/auth/README.md) ⭐
+- [Ente Auth](https://ente.com/auth/) ⭐
 - [FreeOPT](https://github.com/freeotp) 
 - [Proton Pass](https://proton.me/pass) - Paid version
 
