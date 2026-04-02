@@ -57,7 +57,7 @@
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
 - [Bitwarden](https://bitwarden.com/) - 付费版
-- [Ente Auth](https://github.com/ente-io/ente/blob/main/auth/README.md) ⭐
+- [Ente Auth](https://ente.com/auth/) ⭐
 - [FreeOPT](https://github.com/freeotp) 
 - [Proton Pass](https://proton.me/pass) - 付费版
 
