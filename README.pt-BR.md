@@ -225,6 +225,7 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 - [CffInit](https://citation-file-format.github.io/cff-initializer-javascript)
 - [JabRef](https://www.jabref.org/)
 - [Qiqqa](https://github.com/jimmejardine/qiqqa-open-source)
+- [Tropy](https://tropy.org/)
 - [Zotero](https://zotero.org) ⭐
 
 ## Mecanismos de Busca
