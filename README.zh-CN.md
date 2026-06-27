@@ -205,12 +205,15 @@
 ### Windows 调整
 - [WinUtil](https://github.com/ChrisTitusTech/winutil) - Windows 10 和 11 精简工具
 
-
 ## PDF
+### 阅读器
 - [Evince](https://wiki.gnome.org/Apps/Evince)
-- [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) ⭐
 - [Okular](https://okular.kde.org) ⭐
 - [Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader)
+- [Zotero](https://zotero.org) ⭐
+
+### 编辑器
+- [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) ⭐
 
 ## 密码管理器
 - [Bitwarden](https://bitwarden.com/) ⭐
