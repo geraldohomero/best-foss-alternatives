@@ -194,7 +194,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) is NOS - [Flavors](https://ubuntu.com/desktop/flavors)
 - [Zorin OS](https://zorinos.com/) ⭐
 
-### For the enthusiast
+### For enthusiasts
 - [Arch Linux](https://archlinux.org/) ⭐
 - [CachyOS](https://cachyos.org/) ⭐ 
 - [Batocera](https://batocera.org/) - Retro-gaming
