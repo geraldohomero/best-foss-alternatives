@@ -205,12 +205,15 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 ### Ajustes do Windows
 - [WinUtil](https://github.com/ChrisTitusTech/winutil) - Debloat para Windows 10 e 11
 
-
 ## PDF
+### Leitor
 - [Evince](https://wiki.gnome.org/Apps/Evince)
-- [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) ⭐
 - [Okular](https://okular.kde.org) ⭐
 - [Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader)
+- [Zotero](https://zotero.org) ⭐
+
+### Editor
+- [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) ⭐
 
 ## Gerenciadores de Senhas
 - [Bitwarden](https://bitwarden.com/) ⭐
