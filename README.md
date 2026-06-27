@@ -208,12 +208,15 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 ### Windows Tweaks
 - [WinUtil](https://github.com/ChrisTitusTech/winutil) - Windows 10 and 11 Debloat
 
-
 ## PDF
+### Reader
 - [Evince](https://wiki.gnome.org/Apps/Evince)
-- [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) ⭐
 - [Okular](https://okular.kde.org) ⭐
 - [Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader)
+- [Zotero](https://zotero.org) ⭐
+
+### Editor
+- [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) ⭐
 
 ## Password Managers
 - [Bitwarden](https://bitwarden.com/) ⭐
