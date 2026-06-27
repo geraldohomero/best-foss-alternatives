@@ -188,19 +188,24 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 - [BIG Linux](https://www.biglinux.com.br/) - [BIG Community](https://communitybig.org/)
 - [Fedora](https://getfedora.org/) - [Spins](https://fedoraproject.org/spins)
 - [Linux Mint](https://linuxmint.com/) ⭐
-- [Pop!_OS](https://pop.system76.com/) ⭐
 - [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) is NOS - [Flavors](https://ubuntu.com/desktop/flavors)
 - [Zorin OS](https://zorinos.com/) ⭐
 
-### Distribuições Linux focadas em jogos
+### Para os entusiastas
+- [Arch Linux](https://archlinux.org/) ⭐
+- [CachyOS](https://cachyos.org/) ⭐
 - [Batocera](https://batocera.org/) - Retro-gaming
 - [Bazzite](https://bazzite.gg/) ⭐ - SteamOS like
 - [Nobara](https://nobaraproject.org/)
+- [Pop!_OS](https://pop.system76.com/)
 
 ### Distribuições Linux focadas em segurança e privacidade
 - [Qubes OS](https://www.qubes-os.org/)
 - [Tails](https://tails.boum.org/) ⭐
 - [Whonix](https://www.whonix.org/)
+
+### Ajustes do Linux
+- [LinuxToys](https://linux.toys/) ⭐
 
 ### Ajustes do Windows
 - [WinUtil](https://github.com/ChrisTitusTech/winutil) - Debloat para Windows 10 e 11

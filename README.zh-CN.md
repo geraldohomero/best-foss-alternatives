@@ -188,19 +188,24 @@
 - [BIG Linux](https://www.biglinux.com.br/) - [BIG Community](https://communitybig.org/)
 - [Fedora](https://getfedora.org/) - [Spins](https://fedoraproject.org/spins)
 - [Linux Mint](https://linuxmint.com/) ⭐
-- [Pop!_OS](https://pop.system76.com/) ⭐
 - [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) is NOS - [Flavors](https://ubuntu.com/desktop/flavors)
 - [Zorin OS](https://zorinos.com/) ⭐
 
-### 面向游戏的 Linux 发行版
+### 面向爱好者的 Linux 发行版
+- [Arch Linux](https://archlinux.org/) ⭐
+- [CachyOS](https://cachyos.org/) ⭐
 - [Batocera](https://batocera.org/) - 复古游戏
 - [Bazzite](https://bazzite.gg/) ⭐ - 类似 SteamOS
 - [Nobara](https://nobaraproject.org/)
+- [Pop!_OS](https://pop.system76.com/)
 
 ### 注重安全和隐私的 Linux 发行版
 - [Qubes OS](https://www.qubes-os.org/)
 - [Tails](https://tails.boum.org/) ⭐
 - [Whonix](https://www.whonix.org/)
+
+### Linux 调整
+- [LinuxToys](https://linux.toys/) ⭐
 
 ### Windows 调整
 - [WinUtil](https://github.com/ChrisTitusTech/winutil) - Windows 10 和 11 精简工具

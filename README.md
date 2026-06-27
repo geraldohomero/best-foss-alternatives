@@ -187,23 +187,28 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 
 ## Operating Systems
 
-### User-friendly Linux distributions
+### User-friendly Linux distros
 - [BIG Linux](https://www.biglinux.com.br/) - [BIG Community](https://communitybig.org/)
 - [Fedora](https://getfedora.org/) - [Spins](https://fedoraproject.org/spins)
 - [Linux Mint](https://linuxmint.com/) ⭐
-- [Pop!_OS](https://pop.system76.com/) ⭐
 - [Ubuntu](https://ubuntu.com/) - [Snap](https://snapcraft.io/) is NOS - [Flavors](https://ubuntu.com/desktop/flavors)
 - [Zorin OS](https://zorinos.com/) ⭐
 
-### Game-centric Linux distributions
+### For the enthusiast
+- [Arch Linux](https://archlinux.org/) ⭐
+- [CachyOS](https://cachyos.org/) ⭐ 
 - [Batocera](https://batocera.org/) - Retro-gaming
 - [Bazzite](https://bazzite.gg/) ⭐ - SteamOS like
 - [Nobara](https://nobaraproject.org/)
+- [Pop!_OS](https://pop.system76.com/)
 
-### Security and Privacy focused Linux distributions
+### Security and Privacy focused Linux distros
 - [Qubes OS](https://www.qubes-os.org/)
 - [Tails](https://tails.boum.org/) ⭐
 - [Whonix](https://www.whonix.org/)
+
+### Linux Tweaks
+- [LinuxToys](https://linux.toys/) ⭐
 
 ### Windows Tweaks
 - [WinUtil](https://github.com/ChrisTitusTech/winutil) - Windows 10 and 11 Debloat
