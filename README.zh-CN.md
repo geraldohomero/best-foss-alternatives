@@ -64,8 +64,8 @@
 ## 浏览器
 ### 基于 Chromium
 - [Brave](https://brave.com) ⭐
-- [Helium](https://github.com/imputnet/helium)
 - [DuckDuckGo](https://duckduckgo.com/)
+- [Helium](https://github.com/imputnet/helium)
 - [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 - [Vivaldi](https://vivaldi.com)
 ### Firefox 及基于 Firefox
