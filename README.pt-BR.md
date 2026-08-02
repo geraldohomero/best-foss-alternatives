@@ -64,7 +64,9 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 ## Navegadores
 ### Baseado em Chromium
 - [Brave](https://brave.com) ⭐
+- [Helium](https://github.com/imputnet/helium)
 - [DuckDuckGo](https://duckduckgo.com/)
+- [ungoogled-chromium](https://github.com/ungoogled-software/ungoogled-chromium)
 - [Vivaldi](https://vivaldi.com)
 ### Firefox e Baseado em Firefox
 - [Firefox](https://mozilla.org) ⭐
