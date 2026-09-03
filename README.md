@@ -1,5 +1,7 @@
 # List of the Best Free and Open Source (not all) Software Alternatives for Security and Privacy
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22262962.svg)](https://doi.org/10.5281/zenodo.22262962)
+
 > [pt-BR](https://github.com/geraldohomero/best-foss-alternatives/blob/main/README.pt-BR.md) | [简体中文](https://github.com/geraldohomero/best-foss-alternatives/blob/main/README.zh-CN.md)
 
 ## About
