@@ -64,7 +64,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Bitwarden](https://bitwarden.com/) - Paid version
 - [Ente Auth](https://ente.com/auth/) ⭐
 - [FreeOPT](https://github.com/freeotp) 
-- [Proton Pass](https://proton.me/pass) [Ref](https://pr.tn/ref/3W6R9R3Y)- Paid version
+- [Proton Pass](https://proton.me/pass) - [Ref](https://pr.tn/ref/3W6R9R3Y) Paid version
 
 ## Browsers
 ### Chromium Based
@@ -133,7 +133,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 ## E-mails
 - [Mailbox](https://mailbox.org/en/)
 - [Posteo](https://posteo.de/en)
-- [ProtonMail](https://proton.me) - [Ref](https://pr.tn/ref/3W6R9R3Y)⭐
+- [ProtonMail](https://proton.me) - [Ref](https://pr.tn/ref/3W6R9R3Y) ⭐
 - [RiseUp](https://riseup.net)
 - [Tuta](https://tutanota.com) ⭐
 
