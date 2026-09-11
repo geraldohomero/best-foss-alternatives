@@ -64,7 +64,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Bitwarden](https://bitwarden.com/) - Paid version
 - [Ente Auth](https://ente.com/auth/) ⭐
 - [FreeOPT](https://github.com/freeotp) 
-- [Proton Pass](https://proton.me/pass) - Paid version
+- [Proton Pass](https://proton.me/pass) [Ref](https://pr.tn/ref/3W6R9R3Y)- Paid version
 
 ## Browsers
 ### Chromium Based
@@ -89,7 +89,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Mailbox](https://mailbox.org/en/)
 - [Nextcloud Calendar](https://nextcloud.com)
 - [Posteo](https://posteo.de/en)
-- [Proton Calendar](https://proton.me/calendar) ⭐
+- [Proton Calendar](https://proton.me/calendar) - [Ref](https://pr.tn/ref/3W6R9R3Y) ⭐
 - [Tuta](https://tuta.com) ⭐
 
 ## Cloud and Sync
@@ -133,7 +133,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 ## E-mails
 - [Mailbox](https://mailbox.org/en/)
 - [Posteo](https://posteo.de/en)
-- [ProtonMail](https://proton.me) ⭐
+- [ProtonMail](https://proton.me) - [Ref](https://pr.tn/ref/3W6R9R3Y)⭐
 - [RiseUp](https://riseup.net)
 - [Tuta](https://tutanota.com) ⭐
 
@@ -230,7 +230,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 ## Password Managers
 - [Bitwarden](https://bitwarden.com/) ⭐
 - [KeepassXC](https://keepassxc.org/)
-- [Proton Pass](https://proton.me/pass)
+- [Proton Pass](https://proton.me/pass) - [Ref](https://pr.tn/ref/3W6R9R3Y)
 
 ## Readers RSS
 - [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
@@ -281,7 +281,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 ## VPN
 - [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/)
 - [Mullvad](https://mullvad.net) ⭐
-- [Proton VPN](https://protonvpn.com/)
+- [Proton VPN](https://protonvpn.com/) - [Ref](https://pr.tn/ref/3W6R9R3Y)
 - [RiseUp VPN](https://riseup.net/vpn) ⭐
 - [Windscribe](https://windscribe.com/) - [Ref](https://windscribe.com/yo/49anowy7) ⭐
 - [WireGuard](https://www.wireguard.com/)
