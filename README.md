@@ -148,6 +148,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [GIMP](https://www.gimp.org/) ⭐
 - [Inkscape](https://inkscape.org/) ⭐
 - [Krita](https://krita.org/)
+- [LightTable](https://lighttable.app/)
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 
 ## Learning Tools

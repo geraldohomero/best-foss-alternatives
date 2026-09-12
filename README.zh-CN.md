@@ -143,6 +143,7 @@
 - [GIMP](https://www.gimp.org/) ⭐
 - [Inkscape](https://inkscape.org/) ⭐
 - [Krita](https://krita.org/)
+- [LightTable](https://lighttable.app/)
 - [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP)
 
 ## 学习工具
