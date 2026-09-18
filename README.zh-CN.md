@@ -45,14 +45,24 @@
 
 ***
 ## 人工智能
+### 本地大语言模型
 - [GPT4All](https://www.nomic.ai/gpt4all) ⭐
-- [HuggingChat](https://huggingface.co/chat/)
-- [Llama AI](https://ollama.com/)
+- [Hermes Agent](https://github.com/NousResearch/hermes-agent) ⭐
+- [llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐
+- [Ollama](https://ollama.com/)
+- [Open WebUI](https://github.com/open-webui/open-webui)
+- [Pi Agent Harness](https://github.com/earendil-works/pi)
 - [Private GPT](https://github.com/zylon-ai/private-gpt)
 - [Text Generation WebUI](https://github.com/oobabooga/text-generation-webui/)
+- [unsloth](https://github.com/unslothai/unsloth)
+### 本地图像生成
+- [Automatic1111](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+- [ComfyUI](https://github.com/Comfy-Org/ComfyUI)
+- [InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- [unsloth](https://github.com/unslothai/unsloth)
 
 ## 身份验证器
-- [2FAS Auth](https://2fas.com/) - iOS / Android ⭐
+- [2FAS Auth](https://2fas.com/) - ⭐ iOS / Android 
 - [Aegis](https://getaegis.app/) - Android
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
@@ -78,8 +88,8 @@
 
 ## 日历
 - [Etar](https://github.com/Etar-Group/Etar-Calendar)
-- [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar)
-- [Kalendar](https://apps.kde.org/kalendar/)
+- [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar) - Linux
+- [Kalendar](https://apps.kde.org/kalendar/) - Linux
 - [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/)
 - [Mailbox](https://mailbox.org/en/)
 - [Nextcloud Calendar](https://nextcloud.com)
@@ -101,7 +111,7 @@
 ## 代码编辑器
 - [Atom](https://atom.io/) - 已停产 (RIP)
 - [CodeSandbox](https://codesandbox.io/)
-- [Cosmic](https://github.com/pop-os/cosmic-edit)
+- [Cosmic](https://github.com/pop-os/cosmic-edit) - Linux
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Expo.dev](https://expo.dev)
 - [Kate](https://kate-editor.org/)
@@ -133,10 +143,10 @@
 - [Tuta](https://tutanota.com) ⭐
 
 ## 游戏
-- [Bottles](https://usebottles.com/)
-- [Heroic Games Launcher](https://heroicgameslauncher.com/) ⭐
+- [Bottles](https://usebottles.com/) - Linux
+- [Heroic Games Launcher](https://heroicgameslauncher.com/) ⭐ 
 - [HydraLauncher](https://github.com/hydralauncher/hydra)
-- [Lutris](https://lutris.net/)
+- [Lutris](https://lutris.net/) - Linux
 
 ## 图像编辑器
 - [Darktable](https://www.darktable.org/)
@@ -157,7 +167,7 @@
 ## 媒体服务器
 - [Jellyfin](https://jellyfin.org/) ⭐
 - [Kodi](https://kodi.tv/)
-- [Plex](https://www.plex.tv/) - NOS ⭐
+- [Plex](https://www.plex.tv/) ⭐ - NOS
 - [Stremio](https://www.stremio.com/)
 - [Universal Media Server](https://www.universalmediaserver.com/)
 
@@ -172,7 +182,7 @@
 - [diagrams.net](https://www.diagrams.net/) ⭐
 - [FreeMind](https://sourceforge.net/projects/freemind/)
 - [Freeplane](https://www.freeplane.org/)
-- [MindApps](https://www.mindmaps.app/) - 在线
+- [MindApps](https://www.mindmaps.app/)
 - [Minder](https://github.com/phase1geo/minder/)
 - [TiddlyMap](https://github.com/felixhayashi/TW5-TiddlyMap)
 - [vym](https://www.insilmaril.de/vym/)
@@ -214,7 +224,7 @@
 
 ## PDF
 ### 阅读器
-- [Evince](https://wiki.gnome.org/Apps/Evince)
+- [Evince](https://wiki.gnome.org/Apps/Evince) - Linux
 - [Okular](https://okular.kde.org) ⭐
 - [Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader)
 - [Zotero](https://zotero.org) ⭐
@@ -239,8 +249,8 @@
 - [Zotero](https://zotero.org) ⭐
 
 ## 搜索引擎
-- [Brave](https://search.brave.com/) - NOS ⭐
-- [DuckDuckGo](https://duckduckgo.com) - NOS ⭐
+- [Brave](https://search.brave.com/) ⭐ - NOS
+- [DuckDuckGo](https://duckduckgo.com) ⭐ - NOS 
 - [MetaGer](https://metager.org/) - 付费
 - [Qwant](https://www.qwant.com/) - NOS
 - [Searx](https://searx.github.io/searx/) ⭐
@@ -249,12 +259,12 @@
 - [YaCy](https://yacy.net/)
 
 ## 待办事项和笔记
-- [AppFlowy](https://www.appflowy.io/) - Notion 替代品 ⭐
+- [AppFlowy](https://www.appflowy.io/) ⭐ - Notion 替代品 
 - [CherryTree](https://www.giuspen.com/cherrytree/)
 - [Filen](https://filen.io/)
 - [Joplin](https://joplinapp.org/) ⭐
 - [Logseq](https://logseq.com/) - Obsidian 替代品
-- [Obsidian](https://obsidian.md/) - NOS ⭐
+- [Obsidian](https://obsidian.md/) ⭐ - NOS
 - [OpenProject](https://www.openproject.org/)
 - [QOwnNotes](https://www.qownnotes.org/)
 - [Simplenote](https://simplenote.com/)
