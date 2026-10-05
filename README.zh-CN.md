@@ -41,6 +41,7 @@
    * [UML](#uml)
    * [VPN](#vpn)
    * [视频编辑器](#视频编辑器)
+   * [天气](#天气)
 <!--te-->
 
 ***
@@ -66,6 +67,7 @@
 - [Aegis](https://getaegis.app/) - Android
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
+- [Azokle Authenticator](https://azokle.com/authenticator) - Android
 - [Bitwarden](https://bitwarden.com/) - 付费版
 - [Ente Auth](https://ente.com/auth/) ⭐
 - [FreeOPT](https://github.com/freeotp) 
@@ -300,6 +302,11 @@
 - [Olive](https://www.olivevideoeditor.org/)
 - [OpenShot](https://www.openshot.org/)
 - [Shotcut](https://www.shotcut.org/)
+
+## 天气
+- [Azokle Weather](https://weather.azokle.com) - Android
+- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - Android
+- [Geometric Weather](https://github.com/WangDaYaa/GeometricWeather) - Android
 
 ***
 

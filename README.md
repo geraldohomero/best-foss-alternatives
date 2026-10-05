@@ -45,6 +45,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
    * [UML](#uml)
    * [VPN](#vpn)
    * [Video editors](#video-editors)
+   * [Weather](#weather)
 <!--te-->
 
 ***
@@ -70,6 +71,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Aegis](https://getaegis.app/) - Android
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
+- [Azokle Authenticator](https://azokle.com/authenticator) - Android
 - [Bitwarden](https://bitwarden.com/) - Paid version
 - [Ente Auth](https://ente.com/auth/) ⭐
 - [FreeOPT](https://github.com/freeotp) 
@@ -304,6 +306,11 @@ I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/) for 
 - [Olive](https://www.olivevideoeditor.org/)
 - [OpenShot](https://www.openshot.org/)
 - [Shotcut](https://www.shotcut.org/)
+
+## Weather
+- [Azokle Weather](https://weather.azokle.com) - Android
+- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - Android
+- [Geometric Weather](https://github.com/WangDaYaa/GeometricWeather) - Android
 
 
 ***
