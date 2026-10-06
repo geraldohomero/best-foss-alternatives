@@ -45,6 +45,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
    * [UML](#uml)
    * [VPN](#vpn)
    * [Video editors](#video-editors)
+   * [Weather](#weather)
 <!--te-->
 
 ***
@@ -295,8 +296,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Windscribe](https://windscribe.com/) - [Ref](https://windscribe.com/yo/49anowy7) ⭐
 - [WireGuard](https://www.wireguard.com/)
 
-> 
-I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/) for more details on VPNs.
+> I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/) for more details on VPNs.
 
 ## Video editors
 - [Avidemux](http://fixounet.free.fr/avidemux/)
@@ -304,6 +304,10 @@ I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/) for 
 - [Olive](https://www.olivevideoeditor.org/)
 - [OpenShot](https://www.openshot.org/)
 - [Shotcut](https://www.shotcut.org/)
+
+## Weather
+- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - Android
+- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) - Android
 
 
 ***

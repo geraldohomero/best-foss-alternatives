@@ -41,6 +41,7 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
    * [UML](#uml)
    * [VPN](#vpn)
    * [Editores de Vídeo](#editores-de-vídeo)
+   * [Clima](#clima)
 <!--te-->
 
 ***
@@ -291,8 +292,7 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 - [Windscribe](https://windscribe.com/) - [Ref](https://windscribe.com/yo/49anowy7) ⭐
 - [WireGuard](https://www.wireguard.com/)
 
-> 
-Sugiro conferir o [Kit de Ferramentas VPN da Techlore](https://techlore.tech/vpn/) para mais detalhes sobre VPNs.
+> Sugiro conferir o [Kit de Ferramentas VPN da Techlore](https://techlore.tech/vpn/) para mais detalhes sobre VPNs.
 
 ## Editores de Vídeo
 - [Avidemux](http://fixounet.free.fr/avidemux/)
@@ -300,6 +300,10 @@ Sugiro conferir o [Kit de Ferramentas VPN da Techlore](https://techlore.tech/vpn
 - [Olive](https://www.olivevideoeditor.org/)
 - [OpenShot](https://www.openshot.org/)
 - [Shotcut](https://www.shotcut.org/)
+
+## Clima
+- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - Android
+- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) - Android
 
 ***
 

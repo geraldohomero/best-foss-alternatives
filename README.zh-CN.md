@@ -41,6 +41,7 @@
    * [UML](#uml)
    * [VPN](#vpn)
    * [视频编辑器](#视频编辑器)
+   * [天气](#天气)
 <!--te-->
 
 ***
@@ -291,8 +292,7 @@
 - [Windscribe](https://windscribe.com/) - [Ref](https://windscribe.com/yo/49anowy7) ⭐
 - [WireGuard](https://www.wireguard.com/)
 
-> 
-我建议查看 [Techlore 的 VPN 工具包](https://techlore.tech/vpn/)以获取有关 VPN 的更多详细信息。
+> 我建议查看 [Techlore 的 VPN 工具包](https://techlore.tech/vpn/)以获取有关 VPN 的更多详细信息。
 
 ## 视频编辑器
 - [Avidemux](http://fixounet.free.fr/avidemux/)
@@ -300,6 +300,10 @@
 - [Olive](https://www.olivevideoeditor.org/)
 - [OpenShot](https://www.openshot.org/)
 - [Shotcut](https://www.shotcut.org/)
+
+## 天气
+- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - Android
+- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) - Android
 
 ***
 
