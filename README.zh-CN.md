@@ -67,7 +67,6 @@
 - [Aegis](https://getaegis.app/) - Android
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
-- [Azokle Authenticator](https://azokle.com/authenticator) - Android
 - [Bitwarden](https://bitwarden.com/) - 付费版
 - [Ente Auth](https://ente.com/auth/) ⭐
 - [FreeOPT](https://github.com/freeotp) 
@@ -293,8 +292,7 @@
 - [Windscribe](https://windscribe.com/) - [Ref](https://windscribe.com/yo/49anowy7) ⭐
 - [WireGuard](https://www.wireguard.com/)
 
-> 
-我建议查看 [Techlore 的 VPN 工具包](https://techlore.tech/vpn/)以获取有关 VPN 的更多详细信息。
+> 我建议查看 [Techlore 的 VPN 工具包](https://techlore.tech/vpn/)以获取有关 VPN 的更多详细信息。
 
 ## 视频编辑器
 - [Avidemux](http://fixounet.free.fr/avidemux/)
@@ -304,9 +302,8 @@
 - [Shotcut](https://www.shotcut.org/)
 
 ## 天气
-- [Azokle Weather](https://weather.azokle.com) - Android
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - Android
-- [Geometric Weather](https://github.com/WangDaYaa/GeometricWeather) - Android
+- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) - Android
 
 ***
 
