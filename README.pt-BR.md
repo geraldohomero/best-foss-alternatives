@@ -292,8 +292,7 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 - [Windscribe](https://windscribe.com/) - [Ref](https://windscribe.com/yo/49anowy7) ⭐
 - [WireGuard](https://www.wireguard.com/)
 
-> 
-Sugiro conferir o [Kit de Ferramentas VPN da Techlore](https://techlore.tech/vpn/) para mais detalhes sobre VPNs.
+> Sugiro conferir o [Kit de Ferramentas VPN da Techlore](https://techlore.tech/vpn/) para mais detalhes sobre VPNs.
 
 ## Editores de Vídeo
 - [Avidemux](http://fixounet.free.fr/avidemux/)
