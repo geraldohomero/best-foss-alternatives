@@ -71,7 +71,6 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Aegis](https://getaegis.app/) - Android
 - [AndOPT](https://github.com/andOTP/andOTP) - Android
 - [Authy](https://authy.com/) - NOS
-- [Azokle Authenticator](https://azokle.com/authenticator) - Android
 - [Bitwarden](https://bitwarden.com/) - Paid version
 - [Ente Auth](https://ente.com/auth/) ⭐
 - [FreeOPT](https://github.com/freeotp) 
@@ -297,8 +296,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Windscribe](https://windscribe.com/) - [Ref](https://windscribe.com/yo/49anowy7) ⭐
 - [WireGuard](https://www.wireguard.com/)
 
-> 
-I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/) for more details on VPNs.
+> I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/) for more details on VPNs.
 
 ## Video editors
 - [Avidemux](http://fixounet.free.fr/avidemux/)
@@ -308,9 +306,8 @@ I suggest checking out [Techlore's VPN Toolkit](https://techlore.tech/vpn/) for 
 - [Shotcut](https://www.shotcut.org/)
 
 ## Weather
-- [Azokle Weather](https://weather.azokle.com) - Android
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - Android
-- [Geometric Weather](https://github.com/WangDaYaa/GeometricWeather) - Android
+- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) - Android
 
 
 ***
