@@ -141,6 +141,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Tenacity](https://tenacityaudio.org/)
 
 ## E-mails
+- [Aster Mail](https://astermail.org)
 - [Mailbox](https://mailbox.org/en/)
 - [Posteo](https://posteo.de/en)
 - [ProtonMail](https://proton.me) - [Ref](https://pr.tn/ref/3W6R9R3Y) ⭐

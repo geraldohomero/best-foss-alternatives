@@ -137,6 +137,7 @@
 - [Tenacity](https://tenacityaudio.org/)
 
 ## 电子邮件
+- [Aster Mail](https://astermail.org)
 - [Mailbox](https://mailbox.org/en/)
 - [Posteo](https://posteo.de/en)
 - [ProtonMail](https://proton.me) - [Ref](https://pr.tn/ref/3W6R9R3Y) ⭐
