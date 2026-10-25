@@ -16,4 +16,4 @@
 ```
 - Make a pull request
 
-> The app needs to be well-established 
+> The app needs to be well-established (2+ years or 150+ stars)
