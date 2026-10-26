@@ -22,6 +22,7 @@
    * [数据](#数据)
    * [数字音频工作站](#数字音频工作站)
    * [电子邮件](#电子邮件)
+   * [FTP 客户端](#ftp-客户端)
    * [游戏](#游戏)
    * [图像编辑器](#图像编辑器)
    * [学习工具](#学习工具)
@@ -64,8 +65,8 @@
 
 ## 身份验证器
 - [2FAS Auth](https://2fas.com/) - ⭐ iOS / Android 
-- [Aegis](https://getaegis.app/) - Android
-- [AndOPT](https://github.com/andOTP/andOTP) - Android
+- [Aegis](https://getaegis.app/) - 仅限 Android
+- [AndOPT](https://github.com/andOTP/andOTP) - 仅限 Android
 - [Authy](https://authy.com/) - NOS
 - [Bitwarden](https://bitwarden.com/) - 付费版
 - [Ente Auth](https://ente.com/auth/) ⭐
@@ -89,8 +90,8 @@
 
 ## 日历
 - [Etar](https://github.com/Etar-Group/Etar-Calendar)
-- [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar) - Linux
-- [Kalendar](https://apps.kde.org/kalendar/) - Linux
+- [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar) - 仅限 Linux
+- [Kalendar](https://apps.kde.org/kalendar/) - 仅限 Linux
 - [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/)
 - [Mailbox](https://mailbox.org/en/)
 - [Nextcloud Calendar](https://nextcloud.com)
@@ -102,7 +103,7 @@
 - [Cryptomator](https://cryptomator.org/)
 - [Filen](https://filen.io/) ⭐
 - [Mega](https://mega.io) - [Ref](https://mega.io/?aff=PcyK0CWBbwY) - NOS
-  - [MEGASync Multi-Instance Manager](https://github.com/geraldohomero/megasync-multiple-instances) - Linux
+  - [MEGASync Multi-Instance Manager](https://github.com/geraldohomero/megasync-multiple-instances) - 仅限 Linux
 - [Nextcloud](https://nextcloud.com) ⭐
 - [Owncloud](https://owncloud.com/)
 - [pCloud](https://www.pcloud.com/) - NOS
@@ -112,7 +113,7 @@
 ## 代码编辑器
 - [Atom](https://atom.io/) - 已停产 (RIP)
 - [CodeSandbox](https://codesandbox.io/)
-- [Cosmic](https://github.com/pop-os/cosmic-edit) - Linux
+- [Cosmic](https://github.com/pop-os/cosmic-edit) - 仅限 Linux
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Expo.dev](https://expo.dev)
 - [Kate](https://kate-editor.org/)
@@ -143,11 +144,21 @@
 - [RiseUp](https://riseup.net)
 - [Tuta](https://tutanota.com) ⭐
 
+## FTP 客户端
+- [Cyberduck](https://cyberduck.io/) - 仅限 macOS / Windows
+- [FileZilla](https://filezilla-project.org/) 
+- [gFTP](https://github.com/masneyb/gftp) - 仅限 Linux
+- [lftp](https://lftp.yar.ru/) - 仅限 Linux
+- [muCommander](https://www.mucommander.com)
+- [Tabby](https://tabby.sh/)
+- [termscp](https://github.com/veeso/termscp)
+- [WinSCP](https://winscp.net/) - 仅限 Windows
+
 ## 游戏
-- [Bottles](https://usebottles.com/) - Linux
-- [Heroic Games Launcher](https://heroicgameslauncher.com/) ⭐ 
+- [Bottles](https://usebottles.com/) - 仅限 Linux
+- [Heroic Games Launcher](https://heroicgameslauncher.com/) - GOG 和 Epic Games Store ⭐ 
 - [HydraLauncher](https://github.com/hydralauncher/hydra)
-- [Lutris](https://lutris.net/) - Linux
+- [Lutris](https://lutris.net/) - 仅限 Linux
 
 ## 图像编辑器
 - [Darktable](https://www.darktable.org/)
@@ -225,7 +236,7 @@
 
 ## PDF
 ### 阅读器
-- [Evince](https://wiki.gnome.org/Apps/Evince) - Linux
+- [Evince](https://wiki.gnome.org/Apps/Evince) - 仅限 Linux
 - [Okular](https://okular.kde.org) ⭐
 - [Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader)
 - [Zotero](https://zotero.org) ⭐
@@ -239,7 +250,7 @@
 - [Proton Pass](https://proton.me/pass) - [Ref](https://pr.tn/ref/3W6R9R3Y)
 
 ## RSS 阅读器
-- [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
+- [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - 仅限 Android
 - [Raven](https://ravenreader.app/)
 
 ## 研究相关软件
@@ -302,8 +313,8 @@
 - [Shotcut](https://www.shotcut.org/)
 
 ## 天气
-- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - Android
-- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) - Android
+- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - 仅限 Android
+- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) - 仅限 Android
 
 ***
 

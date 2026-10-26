@@ -26,6 +26,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
    * [Data](#data)
    * [Digital Audio Workstation](#digital-audio-workstation)
    * [E-mails](#e-mails)
+   * [FTP Clients](#ftp-clients)
    * [Gaming](#gaming)
    * [Image editors](#image-editors)
    * [Learning Tools](#learning-tools)
@@ -68,8 +69,8 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 
 ## Authenticators
 - [2FAS Auth](https://2fas.com/) - ⭐ iOS / Android 
-- [Aegis](https://getaegis.app/) - Android
-- [AndOPT](https://github.com/andOTP/andOTP) - Android
+- [Aegis](https://getaegis.app/) - Android only
+- [AndOPT](https://github.com/andOTP/andOTP) - Android only
 - [Authy](https://authy.com/) - NOS
 - [Bitwarden](https://bitwarden.com/) - Paid version
 - [Ente Auth](https://ente.com/auth/) ⭐
@@ -93,8 +94,8 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 
 ## Calendar
 - [Etar](https://github.com/Etar-Group/Etar-Calendar)
-- [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar) - Linux
-- [Kalendar](https://apps.kde.org/kalendar/) - Linux
+- [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar) - Linux only
+- [Kalendar](https://apps.kde.org/kalendar/) - Linux only
 - [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/)
 - [Mailbox](https://mailbox.org/en/)
 - [Nextcloud Calendar](https://nextcloud.com)
@@ -116,7 +117,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 ## Code Editors
 - [Atom](https://atom.io/) - Discontinued (RIP)
 - [CodeSandbox](https://codesandbox.io/)
-- [Cosmic](https://github.com/pop-os/cosmic-edit) - Linux
+- [Cosmic](https://github.com/pop-os/cosmic-edit) - Linux only
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Expo.dev](https://expo.dev)
 - [Kate](https://kate-editor.org/)
@@ -147,11 +148,21 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [RiseUp](https://riseup.net)
 - [Tuta](https://tutanota.com) ⭐
 
+## FTP Clients
+- [Cyberduck](https://cyberduck.io/) - macOS / Windows only
+- [FileZilla](https://filezilla-project.org/) 
+- [gFTP](https://github.com/masneyb/gftp) - Linux only
+- [lftp](https://lftp.yar.ru/) - Linux only
+- [muCommander](https://www.mucommander.com)
+- [Tabby](https://tabby.sh/)
+- [termscp](https://github.com/veeso/termscp)
+- [WinSCP](https://winscp.net/) - Windows only
+
 ## Gaming
-- [Bottles](https://usebottles.com/) - Linux
-- [Heroic Games Launcher](https://heroicgameslauncher.com/) ⭐ 
+- [Bottles](https://usebottles.com/) - Linux only
+- [Heroic Games Launcher](https://heroicgameslauncher.com/) - GOG and Epic Games Store ⭐ 
 - [HydraLauncher](https://github.com/hydralauncher/hydra)
-- [Lutris](https://lutris.net/) - Linux
+- [Lutris](https://lutris.net/) - Linux only
 
 ## Image editors
 - [Darktable](https://www.darktable.org/)
@@ -229,7 +240,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 
 ## PDF
 ### Reader
-- [Evince](https://wiki.gnome.org/Apps/Evince) - Linux
+- [Evince](https://wiki.gnome.org/Apps/Evince) - Linux only
 - [Okular](https://okular.kde.org) ⭐
 - [Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader)
 - [Zotero](https://zotero.org) ⭐
@@ -243,7 +254,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Proton Pass](https://proton.me/pass) - [Ref](https://pr.tn/ref/3W6R9R3Y)
 
 ## Readers RSS
-- [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
+- [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android only
 - [Raven](https://ravenreader.app/)
 
 ## Research Related Software
@@ -306,8 +317,8 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [Shotcut](https://www.shotcut.org/)
 
 ## Weather
-- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - Android
-- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) - Android
+- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - Android only
+- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) - Android only
 
 
 ***

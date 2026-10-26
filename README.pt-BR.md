@@ -22,6 +22,7 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
    * [Dados](#dados)
    * [Estação de Trabalho de Áudio Digital](#estação-de-trabalho-de-áudio-digital)
    * [E-mails](#e-mails)
+   * [Clientes FTP](#clientes-ftp)
    * [Jogos](#jogos)
    * [Editores de Imagem](#editores-de-imagem)
    * [Ferramentas de Aprendizagem](#ferramentas-de-aprendizagem)
@@ -64,8 +65,8 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 
 ## Autenticadores
 - [2FAS Auth](https://2fas.com/) - ⭐ iOS / Android 
-- [Aegis](https://getaegis.app/) - Android
-- [AndOPT](https://github.com/andOTP/andOTP) - Android
+- [Aegis](https://getaegis.app/) - Apenas Android
+- [AndOPT](https://github.com/andOTP/andOTP) - Apenas Android
 - [Authy](https://authy.com/) - NOS
 - [Bitwarden](https://bitwarden.com/) - Versão paga
 - [Ente Auth](https://ente.com/auth/) ⭐
@@ -89,8 +90,8 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 
 ## Calendário
 - [Etar](https://github.com/Etar-Group/Etar-Calendar)
-- [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar) - Linux
-- [Kalendar](https://apps.kde.org/kalendar/) - Linux
+- [Gnome Calendar](https://wiki.gnome.org/Apps/Calendar) - Apenas Linux
+- [Kalendar](https://apps.kde.org/kalendar/) - Apenas Linux
 - [Lightning Calendar](https://www.thunderbird.net/en-US/calendar/)
 - [Mailbox](https://mailbox.org/en/)
 - [Nextcloud Calendar](https://nextcloud.com)
@@ -102,7 +103,7 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 - [Cryptomator](https://cryptomator.org/)
 - [Filen](https://filen.io/) ⭐
 - [Mega](https://mega.io) - [Ref](https://mega.io/?aff=PcyK0CWBbwY) - NOS
-  - [MEGASync Multi-Instance Manager](https://github.com/geraldohomero/megasync-multiple-instances) - Linux
+  - [MEGASync Multi-Instance Manager](https://github.com/geraldohomero/megasync-multiple-instances) - Apenas Linux
 - [Nextcloud](https://nextcloud.com) ⭐
 - [Owncloud](https://owncloud.com/)
 - [pCloud](https://www.pcloud.com/) - NOS
@@ -112,7 +113,7 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 ## Editores de Código
 - [Atom](https://atom.io/) - Descontinuado (RIP)
 - [CodeSandbox](https://codesandbox.io/)
-- [Cosmic](https://github.com/pop-os/cosmic-edit) - Linux
+- [Cosmic](https://github.com/pop-os/cosmic-edit) - Apenas Linux
 - [Eclipse IDE](https://www.eclipse.org/ide/)
 - [Expo.dev](https://expo.dev)
 - [Kate](https://kate-editor.org/)
@@ -143,11 +144,21 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 - [RiseUp](https://riseup.net)
 - [Tuta](https://tutanota.com) ⭐
 
+## Clientes FTP
+- [Cyberduck](https://cyberduck.io/) - Apenas macOS / Windows
+- [FileZilla](https://filezilla-project.org/) 
+- [gFTP](https://github.com/masneyb/gftp) - Apenas Linux
+- [lftp](https://lftp.yar.ru/) - Apenas Linux
+- [muCommander](https://www.mucommander.com)
+- [Tabby](https://tabby.sh/)
+- [termscp](https://github.com/veeso/termscp)
+- [WinSCP](https://winscp.net/) - Apenas Windows
+
 ## Jogos
-- [Bottles](https://usebottles.com/) - Linux
-- [Heroic Games Launcher](https://heroicgameslauncher.com/) ⭐ 
+- [Bottles](https://usebottles.com/) - Apenas Linux
+- [Heroic Games Launcher](https://heroicgameslauncher.com/) - GOG e Epic Games Store ⭐ 
 - [HydraLauncher](https://github.com/hydralauncher/hydra)
-- [Lutris](https://lutris.net/) - Linux
+- [Lutris](https://lutris.net/) - Apenas Linux
 
 ## Editores de Imagem
 - [Darktable](https://www.darktable.org/)
@@ -225,7 +236,7 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 
 ## PDF
 ### Leitor
-- [Evince](https://wiki.gnome.org/Apps/Evince) - Linux
+- [Evince](https://wiki.gnome.org/Apps/Evince) - Apenas Linux
 - [Okular](https://okular.kde.org) ⭐
 - [Sumatra](https://www.sumatrapdfreader.org/free-pdf-reader)
 - [Zotero](https://zotero.org) ⭐
@@ -239,7 +250,7 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 - [Proton Pass](https://proton.me/pass) - [Ref](https://pr.tn/ref/3W6R9R3Y)
 
 ## Leitores de RSS
-- [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Android
+- [Feeder](https://play.google.com/store/apps/details?id=com.nononsenseapps.feeder.play) - Apenas Android
 - [Raven](https://ravenreader.app/)
 
 ## Software Relacionado à Pesquisa
@@ -302,8 +313,8 @@ Sinta-se à vontade para [contribuir](./CONTRIBUTING.md) para a lista e [discuti
 - [Shotcut](https://www.shotcut.org/)
 
 ## Clima
-- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - Android
-- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) - Android
+- [Breezy Weather](https://github.com/breezy-weather/breezy-weather) - Apenas Android
+- [Geometric Weather](https://github.com/WangDaYeeeeee/GeometricWeather) - Apenas Android
 
 ***
 
