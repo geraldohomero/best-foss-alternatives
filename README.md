@@ -326,6 +326,7 @@ Feel free to [contribute](./CONTRIBUTING.md) to the list and [discuss it](https:
 - [techlore.tech](https://techlore.tech/)
 - [restoreprivacy.com](https://restoreprivacy.com/)
 - [alternativeto.net](https://alternativeto.net/)
+- [qmetrics.net](https://qmetrics.net/)
 - [privacytools.io](https://www.privacytools.io/)
 
 This list is under construction!
